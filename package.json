@@ -4,6 +4,7 @@
     "commonform": "~1.0.1"
   },
   "scripts":{
+    "build": "commonform render --title 'Nondisclosure Agreement' --format docx < agreement.commonform > agreement.docx",
     "test":"commonform lint < agreement.commonform"
   }
 }
