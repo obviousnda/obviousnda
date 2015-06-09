@@ -7,7 +7,7 @@
   },
   "scripts": {
     "clean": "make clean",
-    "build": "make",
+    "prepublish": "make",
     "test": "commonform lint < agreement.commonform && commonform critique < agreement.commonform"
   }
 }
