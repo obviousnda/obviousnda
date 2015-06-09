@@ -8,6 +8,8 @@ deploy:
     - "Obvious-Nondisclosure-Agreement.commonform.signature"
     - "Obvious-Nondisclosure-Agreement.docx"
     - "Obvious-Nondisclosure-Agreement.docx.signature"
+    - "Obvious-Nondisclosure-Agreement.pdf"
+    - "Obvious-Nondisclosure-Agreement.pdf.signature"
     - "Obvious-Nondisclosure-Agreement.txt"
     - "Obvious-Nondisclosure-Agreement.txt.signature"
   on:
