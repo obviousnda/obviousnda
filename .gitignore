@@ -1,4 +1,3 @@
-*.docx
-*.sig
-*.tmp
+*.temporary
+Obvious-Nondisclosure-Agreement.*
 node_modules
