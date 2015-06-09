@@ -2,14 +2,12 @@
   "private": true,
   "version": "0.0.0-prerelease",
   "devDependencies": {
-    "commonform-cli": "~0.4.1",
-    "jsontool": "~7.0.2"
+    "commonform-cli": "0.4.2",
+    "jsontool": "7.0.2"
   },
   "scripts": {
-    "clean": "rm -f agreement.docx *.sig *.tmp",
-    "prebuild": "cat fixed-blanks.json | sed \"s/VERSION/`json -f package.json version`/\" > blanks.json.tmp",
-    "build": "commonform render --title 'Obvious Nondisclosure Agreement' --blanks blanks.json.tmp --format docx < agreement.commonform > agreement.docx",
-    "postbuild": "if [ \"$SIGN_RELEASE\" = true ] ; then gpg --detach-sign --local-user 'Obvious NDA Releases' agreement.docx ; fi",
+    "clean": "make clean",
+    "build": "make",
     "test": "commonform lint < agreement.commonform && commonform critique < agreement.commonform"
   }
 }
