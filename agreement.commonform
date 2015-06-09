@@ -1,4 +1,4 @@
-Agreement \\
+This Agreement \\
 
     \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"").
     
@@ -18,13 +18,19 @@ Agreement-Specific Terms \\
 
     \\ ""Confidentiality Period"" means [length of time confidential disclosures must be kept confidential, in years] years.
 
-General Intent of the Parties \\
+    \\ ""Governing Law State"" means [governing law state].
+
+    \\ ""Designated Federal Circuit"" means [designated federal circuit for disputes].
+
+    \\ ""Designated Forum City"" means [designated forum city for disputes].
+
+Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchange of information.
+
+Intent of the Parties \\
 
     The Obligations of this Agreement are Mutual \\ The <Parties> intend each provision of this <Agreement> to impose the same obligations on each <Party> and provide the same remedies to each <Party>.
 
     Headings Summarize Provisions \\ The <Parties> intend each heading in this <Agreement> to accurately summarize the entire content of the provision it precedes. 
-
-    Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchange of information.
 
 Obligations \\
 
@@ -36,9 +42,9 @@ Obligations \\
 
     Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, unless as a <Legally Required Disclosure>.
 
-    Precautions \\ Each <Party> shall take precautions to prevent use and disclosure to any <Third Party> of <Confidential Information> in contravention of this <Agreement>. Those precautions must be at least as effective as those a reasonable person in the same position would take, or, if greater, the precautions actually the <Party> actually takes to protect its own confidential information.
+    Precautions \\ Each <Party> shall take precautions to prevent use and disclosure to any <Third Party> of <Confidential Information> in contravention of this <Agreement>. Those precautions must be at least as effective as those a reasonable person in the same position would take, or, if greater, the precautions the <Party> actually takes to protect its own confidential information.
 
-    Prohibition on Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating the owner or proprietary nature of that material.
+    Prohibition on Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating ownership or the confidential nature of that material.
 
     Prohibition on Reverse Engineering \\ Neither <Party> shall reverse engineer or otherwise attempt to discern the design, source code, or method of operation of any electronic hardware or software included in any <Confidential Disclosure> made by the other <Party>.
 
@@ -46,7 +52,9 @@ Obligations \\
 
     Notice of Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> of any <Legally Required Disclosure>.
 
-    Cooperation Against Legally Required Disclosure \\ Each <Party> shall, at the expense of the other <Party>, cooperate in any proceeding brought to prevent or limit the <Legally Required Disclosure> of the <Confidential Information> of the other <Party>.
+    Cooperation Against Legally Required Disclosure \\ Each <Party> shall cooperate in any proceeding brought to prevent or limit the <Legally Required Disclosure> of the <Confidential Information> of the other <Party>.
+
+    Reimbursement of Expenses of Cooperation \\ Each <Party> shall reimburse the other <Party> is reasonable expenses of compliance with {Cooperation Against Legally Required Disclosure}.
 
     Return and Destruction of Copies \\ Following the end of the <Disclosure Term>, each <Party> shall
 
@@ -134,8 +142,56 @@ Remedies \\
 
 General Contract Provisions \\
 
-    Governing Law \\
+    Relationship \\ The relationship of the <Parties> under this <Agreement> is that of independent contractors.  Neither <Party> will be deemed to be an employee, agent, partner, or legal representative of the other for any purpose, and neither shall have any right, power, or authority to create any obligation or responsibility on behalf of the other.
 
-    Dispute Resolution \\
+    Extraordinary Circumstances \\ Neither <Party> shall be liable for any default or delay in the performance of any of their obligations under this <Agreement> if and to the extent that such default or delay both:
+
+        \\ was caused, directly or indirectly, by
+
+            \\ fire, flood, earthquake, elements of nature or acts of God
+
+            \\ wars (declared and undeclared), acts of terrorism, sabotage, riots, civil disorders, rebellions or revolutions
+
+            \\ extraordinary malfunction of third-party Internet infrastructure, data centers or related systems or
+
+            \\ acts of any governmental authority with respect to any of the foregoing
+
+        \\ could not reasonably be circumvented by the non-performing party through the use of commercially reasonable alternate sources, workaround plans or other commercially reasonable means.
 
     Assignment \\
+
+        Assignment with Prior Written Consent \\ Except per {Permitted Assignments}, no <Party> may assign any of its rights under this <Agreement> without the prior written consent of the other <Party>, whether voluntarily or involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise.
+
+        Permitted Assignments \\ A <Party> may assign this <Agreement> without the prior written consent of the other <Party> to any non-<Party> that obtains <Control> of the assigning <Party> after the <Agreement Date>, provided the assignee assumes all of the rights and obligations of the assigning <Party> under this <Agreement>.
+
+        Prohibited Assignments are Void \\ Any purported assignment of rights in violation of this <Agreement> is void.
+
+    Delegation \\
+
+        Delegation with Prior Written Consent \\ Neither <Party> may delegate any performance under this <Agreement> without the prior written consent of the other <Party>.
+
+        Prohibited Delegations are Void \\ Any purported delegation of performance under this <Agreement> in violation of this <Agreement> is void.
+
+    Disputes \\
+
+        Third-Party Beneficiaries \\ This <Agreement> Does not and is not intended to confer any rights or remedies upon any <Legal Person> other than the <Parties>.
+
+        Governing Law \\ The laws of the <Governing Law State>, except its principles of conflict of law, govern all adversarial proceedings relating to this <Agreement> and the exchange and protection of confidential information between the <Parties>.
+
+        Unenforceable Provisions \\ If any provision of this <Agreement> is held unenforceable, then that provision shall be modified to the minimum extent necessary to make it enforceable, unless that modification is not permitted by law, in which case the unenforceable provision shall be disregarded. If modifying or disregarding an unenforceable provision would result in failure of an essential purpose of this <Agreement>, the entire <Agreement> shall be held unenforceable. If, instead, an otherwise unenforceable provision is modified or disregarded, the rest of this <Agreement> shall remain in effect as written. Any unenforceable provision shall remain as written in any circumstances other than those in which it is held to be unenforceable.
+
+        Jurisdiction \\ If either <Party> rings any proceeding arising out of this <Agreement> against the other <Party>, that <Party> must bring that proceeding only in the <Designated Federal Circuit>, or, if there is no federal subject matter jurisdiction, in any state court of the <Governing Law State> sitting in the <Designated Forum City>. Each <Party> submits to the exclusive jurisdiction  of those courts for purposes of any such proceeding.
+
+        Forum \\ Each <Party> waives any claim that any proceeding brought per {Jurisdiction} has been brought in an inconvenient forum, or that the venue of that proceeding is improper.
+
+        Waiver of Jury Trial !! Each <Party> waives its right to a trial by jury in any proceedings arising out of this <Agreement>.
+
+    Documentation \\
+
+        Entire Agreement \\ This <Agreement> constitutes the entire understanding concerning the <Parties> on the subject matter of this <Agreement>, and supersedes all other agreements, written or oral, between the <Parties>.
+
+        Amendments \\ Only amendments to this <Agreement> that are written and signed by the <Parties> shall be effective.
+
+        Waiver \\ The failure of either <Party> to exercise any right or waive any breach of this <Agreement> shall not prevent a subsequent exercise exercise of such right
+
+        Execution \\ Delivery of an electronically signed copy of this <Agreement> shall be effective as delivery of a manually executed counterpart of this <Agreement>.
