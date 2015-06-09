@@ -1,3 +1,4 @@
-node_modules
-*.sig
 *.docx
+*.sig
+*.tmp
+node_modules
