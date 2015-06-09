@@ -1,4 +1,16 @@
-Agreement \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"") on the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""). The <Published Terms> are reproduced here for the convenience of the <Parties>. If the terms reproduced here differ from the <Published Terms>, the <Published Terms> govern.
+Agreement \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"") on the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}. The <Published Terms> are reproduced here for the convenience of the <Parties>. If the terms reproduced here differ from the <Published Terms>, the <Published Terms> govern.
+
+Agreement-Specific Terms \\
+
+    \\ ""Joint Opportunity"" means [description of the parties' joint opportunity].
+
+    \\ ""Return or Destruction Period"" means [time to return and destroy information after the disclosure period, in calendar days] calendar days.
+
+    \\ ""Maximum Retention Period"" means [time to destroy confidential information per a document retention policy, in months] calendar days.
+
+    \\ ""Maximum Disclosure Period"" means [length of the longest possible disclosure period, in years] years.
+
+    \\ ""Period of Confidentiality"" [length of time confidential disclosures must be kept confidential, in years] years.
 
 General Intent of the Parties \\
 
@@ -6,13 +18,13 @@ General Intent of the Parties \\
 
     Headings Summarize Provisions \\ The <Parties> intend each heading in this <Agreement> to accurately summarize the entire content of the provision it precedes. 
 
-    Background \\ The <Parties> are exploring the possibility of [description of the common business to be explored] (the ""Common Business"") and anticipate exchange of information.
+    Background \\ The <Parties> are exploring the <Joint Opportunity> and anticipate exchange of information.
 
 Obligations \\
 
     Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period> to any <Third Party>, unless as a <Legally Required Disclosure>.
 
-    Prohibition on Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period> for any purpose but the <Common Business>.
+    Prohibition on Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period> for any purpose but the <Joint Opportunity>.
 
     Prohibition on Illegal Export \\ Neither <Party> shall illegally export or reexport information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period>.
 
@@ -32,19 +44,19 @@ Obligations \\
 
     Return and Destruction of Copies \\ Following the end of the <Disclosure Period>, each <Party> shall
 
-        \\ return to the other <Party> any copies of <Confidential Information> its <Discloser> has requested, by <Notice>, within the [time to return and destroy information after the disclosure period, in calendar days] calendar days immediately following the <Disclosure Period>
+        \\ return to the other <Party> any copies of <Confidential Information> its <Discloser> has requested, by <Notice>, within the <Return or Destruction Period> immediately following the <Disclosure Period>.
 
-        \\ destroy any remaining copies of <Confidential Information> of the other <Party>, other than copies retained by legal counsel for verification of compliance or maintained in backup media accessible only to information technology personnel, within the [time to return and destroy information after the disclosure period, in calendar days] calendar days immediately following the <Disclosure Period>, or, if the document retention policy of the <Recipient> provides for destruction within the [time to destroy confidential information per a document retention policy, in months] calendar months immediately following the <Disclosure Period>, within the time specified by that retention policy.
+        \\ destroy any remaining copies of <Confidential Information> of the other <Party>, other than copies retained by legal counsel for verification of compliance or maintained in backup media accessible only to information technology personnel, within the <Return or Destruction Period>, or, if the document retention policy of the <Recipient> provides for destruction within the <Maximum Retention Period> immediately following the <Disclosure Period>, within the time specified by that retention policy.
 
     Prohibition on Purchase of Securities \\
 
     Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any 
 
-Definitions \\ In this <Agreement>
+Definitions \\
 
     \\ ""Disclosure Period"" means the period beginning on the <Agreement Date> and ending on the earlier of
 
-        \\ the date that is [length of the default disclosure period, in years] years after the <Agreement Date>
+        \\ a <Maximum Disclosure Period> after the <Agreement Date>
 
         \\ the date <Notice> states the <Disclosure Period> will end
 
@@ -52,7 +64,7 @@ Definitions \\ In this <Agreement>
 
     \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Information> from which that <Derived Information> was derived.
 
-    \\ ""Confidentiality Period"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information>  and ending on the date that is [length of time confidential disclosures must be kept confidential, in years] years later.
+    \\ ""Confidentiality Period"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information> and ending after a <Period of Confidentiality>.
 
     \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Information>.
 
@@ -110,7 +122,7 @@ Remedies \\
 
     No Intellectual Property Licenses \\ This <Agreement> is not intended to grant either <Party> license in the intellectual property of the other <Party>.
 
-    No Obligation to Do Business \\ This <Agreement> is not intended to obligate either <Party> to do the <Common Business> or any other business with the other <Party>, any <Affiliate> of that <Party>, or any <Third Party>.
+    No Obligation to Do Business \\ This <Agreement> is not intended to obligate either <Party> to do the <Joint Opportunity> or any other business with the other <Party>, any <Affiliate> of that <Party>, or any <Third Party>.
 
     No Warranties \\ 
 
