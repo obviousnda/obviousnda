@@ -1,48 +1,46 @@
-Agreement \\ This nondisclosure agreement (this ""Agreement"") is made between its signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"").
+Agreement \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"") on the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""). The <Published Terms> are reproduced here for the convenience of the <Parties>. If the terms reproduced here differ from the <Published Terms>, the <Published Terms> govern.
 
-Intent and Implementation \\
+General Intent of the Parties \\
 
-    The Obligations of this Agreement are Mutual \\ The <Parties> intend each provision of this <Agreement> to impose the same obligations and provide the same remedies to each of the <Parties>.
+    The Obligations of this Agreement are Mutual \\ The <Parties> intend each provision of this <Agreement> to impose the same obligations on each <Party> and provide the same remedies to each <Party>.
 
-    Headings are Meaningful \\ The <Parties> intend each heading in this <Agreement> to accurately summarize the content of the provision it precedes. No provision with a heading should be interpreted to make its heading misleading.
+    Headings Summarize Provisions \\ The <Parties> intend each heading in this <Agreement> to accurately summarize the entire content of the provision it precedes. 
 
-Background \\ The <Parties> want to explore the possibility of [description of the common business to be explored] (the ""Common Business"") and anticipate exchange of confidential information.
+    Background \\ The <Parties> are exploring the possibility of [description of the common business to be explored] (the ""Common Business"") and anticipate exchange of information.
 
 Obligations \\
 
-    Not to Disclose Confidential Information \\ Neither <Party> shall disclose information that is then <Confidential Information> within its <Period of Confidentiality> to any <Third Party>, unless such disclosure is a <Compelled Disclosure>.
-        
-    Not to Use Confidential Information \\ Neither <Party> shall use information that is then <Confidential Information> within its <Period of Confidentiality> for any purpose but the <Common Business>.
+    Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period> to any <Third Party>, unless as a <Legally Required Disclosure>.
 
-    Not to Illegally Export Confidential Information \\ Neither <Party> shall export or reexport information that is then <Confidential Information> within its <Period of Confidentiality> in contravention of United States export law or regulation.
+    Prohibition on Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period> for any purpose but the <Common Business>.
 
-    Not to Disclose the Existence of this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party>, unless such disclosure is a <Compelled Disclosure>.
+    Prohibition on Illegal Export \\ Neither <Party> shall illegally export or reexport information that is then <Confidential Information> of the other <Party> within its <Confidentiality Period>.
 
-    Not to Disclose the Content of this Agreement \\
+    Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Period> while such information is not publicly known, unless as a <Legally Required Disclosure>.
 
-    To Take Precautions to Protect Confidential Information \\
+    Precautions \\ Each <Party> shall take precautions to prevent use and disclosure to any <Third Party> of <Confidential Information> in contravention of this <Agreement>. Those precautions must be at least as effective as those a reasonable person in the same position would take, or, if greater, the precautions actually the <Party> actually takes to protect its own confidential information.
 
-    To Take Data Security Precautions \\
+    Prohibition on Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating the owner or proprietary nature of that material.
 
-    Not to Remove Proprietary Markings from Confidential Information \\
+    Prohibition on Reverse Engineering \\ Neither <Party> shall reverse engineer or otherwise attempt to discern the design, source code, or method of operation of any electronic hardware or software included in any <Confidential Disclosure> made by the other <Party>.
 
-    Not to Reverse Engineer Confidential Information \\
+    Prohibition on Disclosure in Violation of Other Duties \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any duty, law, regulation, or government order.
 
-    Not to Disclose Information in Breach of Other Obligations \\
+    Notice of Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> of any <Legally Required Disclosure>.
 
-    To Provide Notice of Prohibited Use \\
+    Cooperation Against Legally Required Disclosure \\ Each <Party> shall, at the expense of the other <Party>, cooperate in any proceeding brought to prevent or limit the <Legally Required Disclosure> of the <Confidential Information> of the other <Party>.
 
-    To Provide Notice of Prohibited Disclosures \\
+    Return and Destruction of Copies \\ Following the end of the <Disclosure Period>, each <Party> shall
 
-    To Provide Notice of Compelled Disclosures \\
+        \\ return to the other <Party> any copies of <Confidential Information> its <Discloser> has requested, by <Notice>, within the [time to return and destroy information after the disclosure period, in calendar days] calendar days immediately following the <Disclosure Period>
 
-    To Return or Destroy Copies \\
+        \\ destroy any remaining copies of <Confidential Information> of the other <Party>, other than copies retained by legal counsel for verification of compliance or maintained in backup media accessible only to information technology personnel, within the [time to return and destroy information after the disclosure period, in calendar days] calendar days immediately following the <Disclosure Period>, or, if the document retention policy of the <Recipient> provides for destruction within the [time to destroy confidential information per a document retention policy, in months] calendar months immediately following the <Disclosure Period>, within the time specified by that retention policy.
 
-    Not to Purchase Securities Based on Material Nonpublic Information \\
+    Prohibition on Purchase of Securities \\
 
-    To Direct Agents Not to Purchase Securities Based on Material Nonpublic Information \\
+    Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any 
 
-Definitions \\ In this <Agreement>:
+Definitions \\ In this <Agreement>
 
     \\ ""Disclosure Period"" means the period beginning on the <Agreement Date> and ending on the earlier of
 
@@ -54,9 +52,11 @@ Definitions \\ In this <Agreement>:
 
     \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Information> from which that <Derived Information> was derived.
 
-    \\ ""Period of Confidentiality"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information>  and ending on the date that is [length of time confidential disclosures must be kept confidential, in years] years later.
+    \\ ""Confidentiality Period"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information>  and ending on the date that is [length of time confidential disclosures must be kept confidential, in years] years later.
 
     \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Information>.
+
+    # TODO: make concrete
 
     \\ ""Confidential Disclosure"" means information, other than <Excluded Information>, that one <Party> (of that <Confidential Disclosure>, ""Discloser"") discloses to the other <Party> (of that <Confidential Disclosure>, ""Recipient"") during the <Disclosure Period> that relates to <Discloser>, the business of <Discloser>, an <Affiliate> of <Discloser>, or the business of an <Affiliate> of <Discloser>.
 
@@ -76,19 +76,25 @@ Definitions \\ In this <Agreement>:
 
     \\ ""Control"" means direct or indirect possession of the power to direct or cause the direction of the management and policies of a <Legal Person>, such as by vote or contract.
 
+    # TODO: Limit disclosure to those with confidentiality obligations
+
     \\ ""Third Party"" means a <Legal Person> that is neither a <Party> nor an <Affiliate> of a <Party>.
 
     \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
 
     \\ ""Notice"" means a written communication to a <Party> sent by electronic mail to the <Designated Address> of the other <Party>.
 
+    \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
+
     \\ ""Designated Address"" means, of a <Party>, the address provided by that <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should instead be used for sending <Notice> to that <Party>.
 
 Remedies \\
 
-    Injunction \\
+    Equitable Remedies \\ The breach of either <Party> of this <Agreement> could cause irreparable harm to the other <Party> no adequately compensable by damages. If either <Party> breaches or threatens to breach this <Agreement>, the other <Party> should therefore be entitled to equitable remedies, such as  injunctions or restraining orders. Neither security, such as a bond, nor proof of actual damages should be required for such an equitable remedy.
 
-Risk Allocation \\
+    Losing Party Pays Expenses \\
+
+    Risk Allocation \\
 
     Cost of Enforcement \\
 
@@ -96,20 +102,22 @@ Risk Allocation \\
 
     Third-Party Misappropriation \\
 
-Interpretation of this Agreement \\
+    Interpretation of this Agreement \\
 
-    No Obligation to Receive Information \\ This <Agreement> is not intended to obligate either <Party> to accept information tendered by the other <Party>.
+    No Obligation to Disclose \\ This <Agreement> is not intended to obligate either <Party> to disclose any information to the other <Party>.
 
-    No Intellectual Property Licenses \\ This <Agreement> is not intended to grant either <Party> any license to use the intellectual property of the other <Party>.
+    No Obligation to Receive \\ This <Agreement> is not intended to obligate either <Party> to accept information tendered by the other <Party>.
 
-    No Obligation to Disclose Information \\ This <Agreement> is not intended to obligate either <Party> to disclose any information to the other <Party>.
+    No Intellectual Property Licenses \\ This <Agreement> is not intended to grant either <Party> license in the intellectual property of the other <Party>.
+
+    No Obligation to Do Business \\ This <Agreement> is not intended to obligate either <Party> to do the <Common Business> or any other business with the other <Party>, any <Affiliate> of that <Party>, or any <Third Party>.
 
     No Warranties \\ 
-
-    No Obligation to Do Business \\ This <Agreement> is not intended to obligate either <Party> or any <Affiliate> of any <Party> to do business with the other <Party>, any <Affiliate> of that <Party>, or any <Third Party>.
 
 General Contract Provisions \\
 
     Governing Law \\
 
     Dispute Resolution \\
+
+    Assignment \\
