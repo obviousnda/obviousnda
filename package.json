@@ -2,7 +2,7 @@
   "private": true,
   "version": "0.0.0-prerelease",
   "devDependencies": {
-    "commonform-cli": "0.4.2",
+    "commonform-cli": "0.4.3",
     "jsontool": "7.0.2"
   },
   "scripts": {
