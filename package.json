@@ -3,8 +3,9 @@
   "devDependencies": {
     "commonform": "~1.0.1"
   },
-  "scripts":{
+  "scripts": {
     "build": "commonform render --title 'Obvious Nondisclosure Agreement' --format docx < agreement.commonform > agreement.docx",
-    "test":"commonform lint < agreement.commonform"
+    "postbuild": "if [ \"$SIGN_RELEASE\" = true ] ; then gpg --detach-sign --local-user 'Obvious NDA Releases' agreement.docx ; fi",
+    "test": "commonform lint < agreement.commonform"
   }
 }
