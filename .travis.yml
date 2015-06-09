@@ -1,4 +1,22 @@
 ---
+before_deployment:
+  - "make"
+  - "make signatures"
+deploy:
+  file:
+    - "Obvious-Nondisclosure-Agreement.commonform"
+    - "Obvious-Nondisclosure-Agreement.commonform.signature"
+    - "Obvious-Nondisclosure-Agreement.docx"
+    - "Obvious-Nondisclosure-Agreement.docx.signature"
+    - "Obvious-Nondisclosure-Agreement.txt"
+    - "Obvious-Nondisclosure-Agreement.txt.signature"
+  on:
+    branch: master
+    tags: true
+  password:
+  provider: "releases"
+  skip_cleanup: true
+  user:
 language: "node_js"
 script: "npm run test"
 sudo: false
