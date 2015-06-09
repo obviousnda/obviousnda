@@ -1,10 +1,9 @@
 {
-  "agreement title": "Obvious Nondisclosure Agreement",
-  "agreement website": "https://obviousnda.org",
-  "agreement version": "",
   "time to return and destroy information after the disclosure period, in calendar days": "",
   "time to destroy confidential information per a document retention policy, in months": "",
   "length of the default disclosure period, in years": "",
   "length of time confidential disclosures must be kept confidential, in years": "",
-  "governing law state":"the State of California"
+  "governing law state": "the State of California",
+  "federal circuit for disputes": "Ninth",
+  "city for disputes": "San Francisco, California"
 }

@@ -5,7 +5,7 @@
   },
   "scripts": {
     "clean":"rm -f agreement.docx agreement.docx.*",
-    "build": "commonform render --title 'Obvious Nondisclosure Agreement' --format docx < agreement.commonform > agreement.docx",
+    "build": "commonform render --title 'Obvious Nondisclosure Agreement' --blanks fixed-blanks.json --format docx < agreement.commonform > agreement.docx",
     "postbuild": "if [ \"$SIGN_RELEASE\" = true ] ; then gpg --detach-sign --local-user 'Obvious NDA Releases' agreement.docx ; fi",
     "test": "commonform lint < agreement.commonform && commonform critique < agreement.commonform"
   }
