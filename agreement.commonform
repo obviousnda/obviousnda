@@ -1,197 +1,308 @@
 Agreement \\
 
     \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"").
+    # definition
     
-    \\ The terms of this <Agreement> are the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
+    \\ The <Parties> intend this <Agreement> to be governed by the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
+    # definition
+    # rule of construction
     
-    \\ The <Published Terms> are reproduced in this document for the convenience of the <Parties>. If the terms reproduced here differ from the <Published Terms>, the <Published Terms> govern.
+    \\ The <Published Terms> are reproduced in this document for the convenience of the <Parties>.
+    # fact
+    
+    \\ If the terms reproduced here differ from the <Published Terms>, the <Published Terms> govern.
+    # rule of construction
 
 Agreement-Specific Terms \\
 
     \\ ""Mutual Opportunity"" means [description of the mutual opportunity prompting exchange of confidential information].
+    # definition
 
     \\ ""Return or Destruction Period"" means [time to return and destroy information after the disclosure period, in calendar days] calendar days.
+    # definition
 
     \\ ""Maximum Retention Period"" means [time to destroy confidential information per a document retention policy, in months] months.
+    # definition
 
     \\ ""Maximum Disclosure Period"" means [length of the longest possible disclosure period, in years] years.
+    # definition
 
     \\ ""Confidentiality Period"" means [length of time confidential disclosures must be kept confidential, in years] years.
+    # definition
 
     \\ ""Governing Law State"" means [governing law state].
+    # definition
 
     \\ ""Designated Circuit"" means the [federal circuit for disputes] Circuit of the United States Courts of Appeals.
+    # definition
 
-    \\ ""Designated Forum City"" means [city for disputes].
+    \\ ""Designated City"" means [city for disputes].
+    # definition
 
-Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchange of information.
+Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchanging information.
+# fact
 
 Intent of the Parties \\
 
     The Obligations of this Agreement are Mutual \\ The <Parties> intend each provision of this <Agreement> to impose the same obligations on each <Party> and provide the same remedies to each <Party>.
+    # rule of construction
 
     Headings Summarize Provisions \\ The <Parties> intend each heading in this <Agreement> to accurately summarize the entire content of the provision it precedes. 
+    # rule of construction
 
 Obligations \\
 
-    Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, unless as a <Legally Required Disclosure>.
+    Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party> other than by <Legally Required Disclosure>.
+    # covenant
 
     Prohibition on Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
+    # covenant
 
     Prohibition on Illegal Export \\ Neither <Party> shall illegally export or reexport information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term>.
+    # covenant
 
-    Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, unless as a <Legally Required Disclosure>.
+    Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known other than by <Legally Required Disclosure>.
+    # covenant
 
     Precautions \\ Each <Party> shall take precautions to prevent use and disclosure to any <Third Party> of <Confidential Information> in contravention of this <Agreement>. Those precautions must be at least as effective as those a reasonable person in the same position would take, or, if greater, the precautions the <Party> actually takes to protect its own confidential information.
+    # covenant
 
     Prohibition on Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating ownership or the confidential nature of that material.
+    # covenant
 
     Prohibition on Reverse Engineering \\ Neither <Party> shall reverse engineer or otherwise attempt to discern the design, source code, or method of operation of any electronic hardware or software included in any <Confidential Disclosure> made by the other <Party>.
+    # covenant
 
     Prohibition on Disclosure in Violation of Other Duties \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any duty, law, regulation, or government order.
+    # covenant
 
     Notice of Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> of any <Legally Required Disclosure>.
+    # covenant
 
-    Cooperation Against Legally Required Disclosure \\ Each <Party> shall cooperate in any proceeding brought to prevent or limit the <Legally Required Disclosure> of the <Confidential Information> of the other <Party>.
+    Cooperation Against Legally Required Disclosure \\ Each <Party> shall cooperate in any proceeding brought to prevent or limit <Legally Required Disclosure> of <Confidential Information> of the other <Party>.
+    # covenant
 
     Reimbursement of Expenses of Cooperation \\ Each <Party> shall reimburse the other <Party> is reasonable expenses of compliance with {Cooperation Against Legally Required Disclosure}.
+    # covenant
 
     Return and Destruction of Copies \\ Following the end of the <Disclosure Term>, each <Party> shall
+    # covenant
 
-        \\ return to the other <Party> any copies of <Confidential Information> its <Discloser> has requested, by <Notice>, within the <Return or Destruction Period> immediately following the <Disclosure Term>.
+    Return Copies \\ Following the end of the <Disclosure Term>, each <Party> shall return to the other <Party> all copies, other than <Counsel Copies> and <Backup Copies>, of <Confidential Disclosure> its <Discloser> has requested, by <Notice>, within the <Return or Destruction Period> immediately following the <Disclosure Term>.
+    # covenant
 
-        \\ destroy any remaining copies of <Confidential Information> of the other <Party>, other than copies retained by legal counsel for verification of compliance or maintained in backup media accessible only to information technology personnel, within the <Return or Destruction Period>, or, if the document retention policy of the <Recipient> provides for destruction within the <Maximum Retention Period> immediately following the <Disclosure Term>, within the time specified by that retention policy.
+    Destroy Copies \\
+
+        \\ If the document retention policy of a <Recipient> requires destruction of <Confidential Information> of the other <Party> within the <Maximum Retention Period> following the <Disclosure Term>, the <Recipient> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, by the time required by that document retention policy.
+        # covenant
+
+        \\ Otherwise, each <Recipient> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
+        # covenant
+
+    # TODO
 
     Prohibition on Purchase of Securities \\
+    # covenant
+
+    # TODO
 
     Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any 
+    # covenant
 
 Definitions \\
 
     \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the earlier of
+    # definition
 
         \\ the day that is a <Maximum Disclosure Period> after the <Agreement Date>
+        # definition
 
         \\ the date <Notice> states the <Disclosure Term> will end
+        # definition
 
         \\ delivery of <Notice> that the <Disclosure Term> ends immediately
+        # definition
 
     \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Information> from which that <Derived Information> was derived.
+    # definition
 
     \\ ""Confidentiality Term"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information> and ending after a <Confidentiality Period>.
+    # definition
 
     \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Information>.
+    # definition
 
     # TODO: make concrete
 
     \\ ""Confidential Disclosure"" means information, other than <Excluded Information>, that one <Party> (of that <Confidential Disclosure>, ""Discloser"") discloses to the other <Party> (of that <Confidential Disclosure>, ""Recipient"") during the <Disclosure Term> that relates to <Discloser>, the business of <Discloser>, an <Affiliate> of <Discloser>, or the business of an <Affiliate> of <Discloser>.
+    # definition
 
     \\ ""Excluded Information"" means information that is <Public Information>, <Previously Received Information>, or <Independently Developed Information>.
+    # definition
 
     \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
+    # definition
 
     \\ ""Previously Received Information"" means information that a <Recipient> or any <Representative> of a <Recipient> previously received.
+    # definition
 
     \\ ""Independently Developed Information"" means information that a <Recipient> develops independently.
+    # definition
 
     \\ ""Derived Information"" means information that a <Recipient> or its <Representative> records in tangible or intangible form and that a <Recipient> or its <Representative> wholly or partly derived from <Confidential Disclosure> received or other <Derived Information>.
+    # definition
 
     \\ ""Affiliate"" means, of a <Legal Person>, any other <Legal Person> that <Legal Person> has <Control> over, is under the <Control> of, or is under common <Control> with.
+    # definition
 
     \\ ""Legal Person"" means an individual, corporation, partnership, trust, limited liability company, association, or other legal entity.
+    # definition
 
     \\ ""Control"" means direct or indirect possession of the power to direct or cause the direction of the management and policies of a <Legal Person>, such as by vote or contract.
+    # definition
 
     # TODO: Limit disclosure to those with confidentiality obligations
 
     \\ ""Third Party"" means a <Legal Person> that is neither a <Party> nor an <Affiliate> of a <Party>.
+    # definition
 
     \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
+    # definition
 
     \\ ""Notice"" means a written communication to a <Party> sent by electronic mail to the <Designated Address> of the other <Party>.
+    # definition
 
     \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
+    # definition
 
     \\ ""Designated Address"" means, of a <Party>, the address provided by that <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should instead be used for sending <Notice> to that <Party>.
+    # definition
+
+    \\ ""Counsel Copies"" means, of <Confidential Information>, copies of that <Confidential Information> retained by legal counsel for verification of compliance.
+    # definition
+
+    \\ ""Backup Copies"" means, of <Confidential Information>, copies of that <Confidential Information> stored in backup media accessible only to information technology personnel.
+    # definition
+
+    \\ ""Emergency"" means fire, flood, earthquake, element of nature, act of god, declared or undeclared war, terrorist act, sabotage, riot, civil disorder, rebellion, revolution, or like catastrophe beyond the control of the <Parties>.
+
+    \\ ""Emergency Response"" means response of a governmental authority to an <Emergency>.
+
+    \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information> of the <Parties>.
 
 Remedies \\
 
-    Equitable Remedies \\ The breach of either <Party> of this <Agreement> could cause irreparable harm to the other <Party> no adequately compensable by damages. If either <Party> breaches or threatens to breach this <Agreement>, the other <Party> should therefore be entitled to equitable remedies, such as  injunctions or restraining orders. Neither security, such as a bond, nor proof of actual damages should be required for such an equitable remedy.
+    Equitable Remedies \\
+
+        \\ The breach of either <Party> of this <Agreement> would cause irreparable harm to the other <Party> no adequately compensable by damages.
+        # fact
+
+        # TODO: Does a negative covenant add any greater assurance of equitable remedy to that provided by the statement of fact that irreparable harm would occur?
+
+        \\ Neither <Party> shall object to a request of other <Party> for an equitable remedy, such as injunction or restraining order, for breach of threatened breach of this <Agreement>.
+        # covenant
+
+    Bond and Security Waiver \\ Neither <Party> shall assert that the other <Party> must provide security, such as a bond, or proof of actual damages prior to exercising any remedy granted consistent with {Equitable Remedies}.
+    # covenant
+
+    # TODO
 
     Losing Party Pays Expenses \\
 
-    Risk Allocation \\
+    # TODO
 
-    Cost of Enforcement \\
+    Indemnification \\
 
-    No Bond Needed to Enforce \\
+    # TODO
 
     Third-Party Misappropriation \\
 
-    Interpretation of this Agreement \\
+Interpretation of this Agreement \\
 
-    No Obligation to Disclose \\ This <Agreement> is not intended to obligate either <Party> to disclose any information to the other <Party>.
+    No Obligation to Disclose \\ The <Parties> do not intend this <Agreement> to obligate either <Party> to disclose any information to the other <Party>.
+    # rule of construction
 
-    No Obligation to Receive \\ This <Agreement> is not intended to obligate either <Party> to accept information tendered by the other <Party>.
+    No Obligation to Receive \\ The <Parties> do not intend this <Agreement> to obligate either <Party> to accept information tendered by the other <Party>.
+    # rule of construction
 
-    No Intellectual Property Licenses \\ This <Agreement> is not intended to grant either <Party> license in the intellectual property of the other <Party>.
+    # TODO: copy license
 
-    No Obligation to Do Business \\ This <Agreement> is not intended to obligate either <Party> to do the <Mutual Opportunity> or any other business with the other <Party>, any <Affiliate> of that <Party>, or any <Third Party>.
+    No Intellectual Property Licenses \\ The <Parties> do not intend this <Agreement> to grant either <Party> license in the intellectual property of the other <Party>.
+    # rule of construction
+
+    No Obligation to Do Business \\ The <Parties> do not intend this <Agreement> to obligate either <Party> to do the <Mutual Opportunity> or any other business with the other <Party> or any other <Legal Person>.
+    # rule of construction
+
+    # TODO
 
     No Warranties \\ 
 
+    Extraordinary Circumstances \\ The <Parties> do not intend this <Agreement> to support any claim for breach of contract for any default or delay by a <Party> in performance under this <Agreement> caused by an <Emergency> or <Emergency Response> that, in either case, could not be circumvented by commercially reasonable means.
+    # rule of construction
+
 General Contract Provisions \\
 
-    Relationship \\ The relationship of the <Parties> under this <Agreement> is that of independent contractors.  Neither <Party> will be deemed to be an employee, agent, partner, or legal representative of the other for any purpose, and neither shall have any right, power, or authority to create any obligation or responsibility on behalf of the other.
-
-    Extraordinary Circumstances \\ Neither <Party> shall be liable for any default or delay in the performance of any of their obligations under this <Agreement> if and to the extent that such default or delay both:
-
-        \\ was caused, directly or indirectly, by
-
-            \\ fire, flood, earthquake, elements of nature or acts of God
-
-            \\ wars (declared and undeclared), acts of terrorism, sabotage, riots, civil disorders, rebellions or revolutions
-
-            \\ extraordinary malfunction of third-party Internet infrastructure, data centers or related systems or
-
-            \\ acts of any governmental authority with respect to any of the foregoing
-
-        \\ could not reasonably be circumvented by the non-performing party through the use of commercially reasonable alternate sources, workaround plans or other commercially reasonable means.
+    Independent Contractors \\
+    
+        \\ The <Parties> intend this <Agreement> to create only an independent contractor relationship between the <Parties>.
+        # rule of construction
+        
+        \\ The <Parties> do not intend this <Agreement> to create any employment, agency, partnership, or legal representation relationship between the <Parties>.
+        # rule of construction
+        
+        \\ Neither <Party> intends this <Agreement> to grant the other <Party> any right, power, or authority to create any obligation or responsibility for the other <Party>.
+        # rule of construction
 
     Assignment \\
 
-        Assignment with Prior Written Consent \\ Except per {Permitted Assignments}, no <Party> may assign any of its rights under this <Agreement> without the prior written consent of the other <Party>, whether voluntarily or involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise.
+        Assignment with Consent \\ Except per {Assignment without Consent}, neither <Party> shall assign any of its rights under this <Agreement> without the prior written consent of the other <Party>, whether voluntarily or involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise.
+        # covenant
 
-        Permitted Assignments \\ A <Party> may assign this <Agreement> without the prior written consent of the other <Party> to any non-<Party> that obtains <Control> of the assigning <Party> after the <Agreement Date>, provided the assignee assumes all of the rights and obligations of the assigning <Party> under this <Agreement>.
+        Assignment without Consent \\ A <Party> may assign this <Agreement> without the prior written consent of the other <Party> to any <Third Party> that obtains <Control> of the assigning <Party> after the <Agreement Date>, provided that assignee assumes all the rights and obligations of the assigning <Party> under this <Agreement>.
 
-        Prohibited Assignments are Void \\ Any purported assignment of rights in violation of this <Agreement> is void.
+        Prohibited Assignment is Void \\ Any purported assignment of rights in violation of this <Agreement> is void.
+        # rule of construction
 
     Delegation \\
 
-        Delegation with Prior Written Consent \\ Neither <Party> may delegate any performance under this <Agreement> without the prior written consent of the other <Party>.
+        Delegation with Consent \\ Neither <Party> shall delegate any performance under this <Agreement> without the prior written consent of the other <Party>.
 
-        Prohibited Delegations are Void \\ Any purported delegation of performance under this <Agreement> in violation of this <Agreement> is void.
+        Prohibited Delegation is Void \\ Any purported delegation of performance in violation of this <Agreement> is void.
 
     Disputes \\
 
-        Third-Party Beneficiaries \\ This <Agreement> Does not and is not intended to confer any rights or remedies upon any <Legal Person> other than the <Parties>.
+        Third-Party Beneficiaries \\ The <Parties> do not intend this <Agreement> to give any rights or remedies to any <Legal Person> other than the <Parties>.
 
-        Governing Law \\ The laws of the <Governing Law State>, except its principles of conflict of law, govern all adversarial proceedings relating to this <Agreement> and the exchange and protection of confidential information between the <Parties>.
+        Governing Law \\ The laws of the <Governing Law State>, except its principles of conflict of law, govern any <Proceeding>.
 
-        Unenforceable Provisions \\ If any provision of this <Agreement> is held unenforceable, then that provision shall be modified to the minimum extent necessary to make it enforceable, unless that modification is not permitted by law, in which case the unenforceable provision shall be disregarded. If modifying or disregarding an unenforceable provision would result in failure of an essential purpose of this <Agreement>, the entire <Agreement> shall be held unenforceable. If, instead, an otherwise unenforceable provision is modified or disregarded, the rest of this <Agreement> shall remain in effect as written. Any unenforceable provision shall remain as written in any circumstances other than those in which it is held to be unenforceable.
+        # TODO
 
-        Jurisdiction \\ If either <Party> rings any proceeding arising out of this <Agreement> against the other <Party>, that <Party> must bring that proceeding only within the appellate jurisdiction of the <Designated Circuit>, or, if there is no federal subject matter jurisdiction, in any state court of the <Governing Law State> sitting in the <Designated Forum City>. Each <Party> submits to the exclusive jurisdiction  of those courts for purposes of any such proceeding.
+        Unenforceable Provisions \\ If any provision of this <Agreement> is held unenforceable, then that provision shall be modified to the minimum extent necessary to make it enforceable, unless that modification is not permitted by law, in which case the unenforceable provision shall be disregarded.
+        
+            \\ If modifying or disregarding an unenforceable provision would result in failure of an essential purpose of this <Agreement>, the entire <Agreement> shall be held unenforceable.
+        
+            \\ If, instead, an otherwise unenforceable provision is modified or disregarded, the rest of this <Agreement> shall remain in effect as written.
+        
+            \\ Any unenforceable provision shall remain as written in any circumstances other than those in which it is held to be unenforceable.
 
-        Forum \\ Each <Party> waives any claim that any proceeding brought per {Jurisdiction} has been brought in an inconvenient forum, or that the venue of that proceeding is improper.
+        Designated Courts \\ Each <Party> shall bring a <Proceeding> within the appellate jurisdiction of the <Designated Circuit>, or, if there is no federal subject matter jurisdiction, in any state court of the <Governing Law State> sitting in the <Designated City>.
+        
+        # TODO: Should this be a waiver?
+
+        Submission to Jurisdiction \\ Each <Party> submits to the exclusive jurisdiction of the federal courts of the <Designated Circuit> and the state courts of the <Designated City> for purposes of any <Proceeding>.
+
+        Forum Waiver \\ Neither <Party> shall assert that the venue of a <Proceeding> brought per {Designated Courts} is improper.
+
+        Venue Waiver \\ Neither <Party> shall assert that any <Proceeding> brought per {Designated Courts} has been brought in an inconvenient forum.
 
         Waiver of Jury Trial !! Each <Party> waives its right to a trial by jury in any proceedings arising out of this <Agreement>.
 
+    No Implied Waivers \\ Neither <Party> shall assert that the exercise of any right under this <Agreement> or the waiver of any breach of this <Agreement> prevents any later claims for breach of this <Agreement>.
+
     Documentation \\
 
-        Entire Agreement \\ This <Agreement> constitutes the entire understanding concerning the <Parties> on the subject matter of this <Agreement>, and supersedes all other agreements, written or oral, between the <Parties>.
+        Entire Agreement \\ The <Parties> intend this <Agreement> to embody their entire understanding on the subject matter of this <Agreement>, and to supersede all other agreements on that subject matter, written and oral, between the <Parties>.
 
-        Amendments \\ Only amendments to this <Agreement> that are written and signed by the <Parties> shall be effective.
+        Amendments \\ Neither <Party> shall assert that any purported amendment to this <Agreement> not both written and signed by the <Parties> is effective.
 
-        Waiver \\ The failure of either <Party> to exercise any right or waive any breach of this <Agreement> shall not prevent a subsequent exercise exercise of such right
-
-        Execution \\ Delivery of an electronically signed copy of this <Agreement> shall be effective as delivery of a manually executed counterpart of this <Agreement>.
+        Electronic Execution is Effective \\ The <Parties> intend electronically signed copies of this <Agreement> to be just as effective as delivery of manually executed counterparts of this <Agreement>.
