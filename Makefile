@@ -36,7 +36,19 @@ $(pdf): $(tex)
 	dvipdf *.dvi
 
 $(tex): $(sources) $(blanks)
-	$(cf) render --title '$(title)' --blanks $(blanks) --format tex < $(agreement) > $@
+	echo '\\overfullrule=0pt' > $@
+	echo '\\parindent=1.75\\parindent' >> $@
+	echo '\\parskip=5pt' >> $@
+	echo '\\centerline{\\bf Obvious Nondisclosure Agreement}\n' >> $@
+	echo '\\centerline{version $(version)}\n' >> $@
+	echo '\\vskip 1.5\\parskip' >> $@
+	$(cf) render --title '$(title)' --blanks $(blanks) --format tex < $(agreement) >> $@
+	echo '' >> $@
+	echo '\\centerline{' >> $@
+	echo '{\\leavevmode  \\vbox{\\hrule width2in}}' >> $@
+	echo '{The Agreement ends here.}' >> $@
+	echo '{\\leavevmode  \\vbox{\\hrule width2in}}' >> $@
+	echo '}' >> $@
 	echo '\\bye' >> $@
 
 signatures: $(signatures)
