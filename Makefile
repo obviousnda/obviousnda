@@ -37,8 +37,7 @@ $(pdf): $(tex)
 
 $(tex): $(sources) $(blanks)
 	echo '\\overfullrule=0pt' > $@
-	echo '\\parindent=1.75\\parindent' >> $@
-	echo '\\parskip=5pt' >> $@
+	echo '\\parskip=6pt' >> $@
 	echo '\\font\\tenbi=cmbxti10' >> $@
 	echo '\\newfam\\bifam \\def\\bi{\\fam\\bifam\\tenbi} \\textfont\\bifam=\\tenbi' >> $@
 	echo '\\centerline{\\bf Obvious Nondisclosure Agreement}\n' >> $@
