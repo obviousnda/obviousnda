@@ -38,15 +38,17 @@ Obligations \\
 
     Disclosure, Use, and Other Actions \\
 
-        Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
+        Prohibition on Disclosure to Third Parties \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
 
-        Prohibition on Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
+        Prohibition on Unrelated Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
 
         Prohibition on Illegal Export \\ Neither <Party> shall illegally export or reexport information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term>.
 
-        Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
+        Prohibition on Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
 
-        Prohibition on Disclosure in Violation of Other Duties \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any duty, law, regulation, or government order.
+        Prohibition on Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or government order.
+
+        Prohibition on Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the <Other Party> in violation of any legal duty, law, regulation, or government order.
 
     Protection \\
 
@@ -79,8 +81,6 @@ Obligations \\
         Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any disclosure, use, export, or reexport of <Confidential Information> not authorized by this <Agreement> (a ""Leak"").
 
         Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigation of the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
-
-    No Insider Trading \\ Neither <Party> shall violate Securities and Exchange Commission Rule 10b5-1 or any other law against insider trading of securities utilizing <Confidential Information> of the other <Party>.
 
 Definitions \\
 
@@ -145,6 +145,8 @@ Definitions \\
         \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
         
         \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure>, either by contract or the existence of a fiduciary relationship.
+
+    \\ ""Utilize"" means, of <Confidential Information>, to use or act on the basis of that <Confidential Information>, or to instruct or aid any <Third Party> to use or act on the basis of that <Confidential Information>.
         
 Remedies \\
 
