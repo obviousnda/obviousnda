@@ -16,11 +16,14 @@ signatures = $(addsuffix .signature,$(targets))
 cf = ./node_modules/.bin/commonform
 jsontool = ./node_modules/.bin/json
 version = $(shell $(jsontool) -f package.json version)
+digest = $(shell $(cf) hash < $(agreement) | fold -w4 | paste -sd- -)
 
 all: $(targets)
 
 $(blanks): fixed-blanks.json package.json
-	sed "s/VERSION/$(version)/" fixed-blanks.json > $@
+	cp fixed-blanks.json $@
+	sed --in-place "s/VERSION/$(version)/" $@
+	sed --in-place "s/FINGERPRINT/$(digest)/" $@
 
 $(commonform): $(agreement)
 	cp $(agreement) $@
