@@ -38,13 +38,13 @@ Obligations \\
 
     Disclosure, Use, and Other Actions \\
 
-        Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except as <Legally Required Disclosure>.
+        Prohibition on Disclosure \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
 
         Prohibition on Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
 
         Prohibition on Illegal Export \\ Neither <Party> shall illegally export or reexport information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term>.
 
-        Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except as <Legally Required Disclosure>.
+        Prohibition on Disclosure of Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
 
         Prohibition on Disclosure in Violation of Other Duties \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any duty, law, regulation, or government order.
 
@@ -114,8 +114,6 @@ Definitions \\
 
     \\ ""Control"" means direct or indirect possession of the power to direct or cause the direction of the management and policies of a <Legal Person>, such as by vote or contract.
 
-    # TODO: Limit disclosure to those with confidentiality obligations
-
     \\ ""Third Party"" means a <Legal Person> that is not a <Party>.
 
     \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
@@ -140,13 +138,19 @@ Definitions \\
 
     \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in favor of that <Party> against the other <Party> on all claims asserted between the <Parties> that are not settled or voluntarily dismissed.
 
+    \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria:
+    
+        \\ The <Representative> needs to receive the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
+        
+        \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
+        
+        \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure>, either by contract or the existence of a fiduciary relationship.
+        
 Remedies \\
 
     Equitable Remedies \\
 
         \\ The breach of either <Party> of this <Agreement> would cause irreparable harm to the other <Party> not adequately compensable by damages.
-
-        # TODO: Does a negative covenant add any greater assurance of equitable remedy to that provided by the statement of fact that irreparable harm would occur?
 
         \\ Neither <Party> shall object to a request of the other <Party> for an equitable remedy, such as an injunction or restraining order, for breach of threatened breach of this <Agreement>.
 
