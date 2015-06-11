@@ -20,7 +20,7 @@ digest = $(shell $(cf) hash < $(agreement) | fold -w4 | paste -sd- -)
 
 all: $(targets)
 
-$(blanks): fixed-blanks.json package.json
+$(blanks): fixed-blanks.json package.json agreement.commonform
 	cp fixed-blanks.json $@
 	sed --in-place "s/VERSION/$(version)/" $@
 	sed --in-place "s/FINGERPRINT/$(digest)/" $@
