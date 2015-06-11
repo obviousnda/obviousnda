@@ -46,9 +46,9 @@ Obligations \\
 
         Prohibition on Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
 
-        Prohibition on Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or government order.
+        Prohibition on Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or order of a <Government Authority>.
 
-        Prohibition on Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the <Other Party> in violation of any legal duty, law, regulation, or government order.
+        Prohibition on Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the other <Party> in violation of any legal duty, law, regulation, or order of a <Government Authority>.
 
     Protection \\
 
@@ -82,7 +82,20 @@ Obligations \\
 
         Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigation of the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
 
+    Misrepresentation Waiver \\ Neither <Party> shall assert any claim of fraud, misrepresentation, or detrimental reliance based on any assertion that <Confidential Disclosure> of other <Party> was misleading or inaccurate.
+
+
 Definitions \\
+
+    \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria:
+    
+        \\ The <Representative> needs to receive the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
+        
+        \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
+        
+        \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure>, either by contract or the existence of a fiduciary relationship.
+
+    \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
 
     \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the earlier of
 
@@ -102,11 +115,11 @@ Definitions \\
 
     \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
 
-    \\ ""Previously Received Information"" means information that a <Recipient> or any <Representative> of a <Recipient> previously received.
+    \\ ""Previously Received Information"" means information previously received by a <Recipient> or any <Representative> of that <Recipient>.
 
-    \\ ""Independently Developed Information"" means information that a <Recipient> has developed independently.
+    \\ ""Independently Developed Information"" means information that a <Recipient> developed independently.
 
-    \\ ""Derived Information"" means information that a <Recipient> or <Authorized Recipient> wholly or partly derived from <Confidential Disclosure> received or other <Derived Information> and recorded in tangible or intangible form.
+    \\ ""Derived Information"" means recorded information that a <Recipient> wholly or partly derived from <Confidential Disclosure> of the other <Party>, other <Derived Information>, or both.
 
     \\ ""Affiliate"" means, of a <Legal Person>, any other <Legal Person> that <Legal Person> has <Control> over, is under the <Control> of, or is under common <Control> with.
 
@@ -118,41 +131,35 @@ Definitions \\
 
     \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
 
-    \\ ""Notice"" means a written communication to a <Party> sent by electronic mail to the <Designated Address> of the other <Party>.
-
-    \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
+    \\ ""Notice"" means a written communication to a <Party> sent by electronic mail to its <Designated Address>.
 
     \\ ""Designated Address"" means, of a <Party>, the address provided by that <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should be used for sending <Notice> to that <Party>.
 
-    \\ ""Counsel Copies"" means, of <Confidential Information>, copies of that <Confidential Information> retained by legal counsel for verification of compliance.
+    \\ ""Counsel Copies"" means copies of <Confidential Information> retained by legal counsel to its <Recipient> for verification of compliance.
 
-    \\ ""Backup Copies"" means, of <Confidential Information>, copies of that <Confidential Information> stored in backup media accessible only to information technology personnel.
+    \\ ""Backup Copies"" means copies of <Confidential Information> stored in backup media accessible only to information technology personnel of its <Recipient>.
 
     \\ ""Emergency"" means fire, flood, earthquake, element of nature, act of god, declared or undeclared war, terrorist act, sabotage, riot, civil disorder, rebellion, revolution, or like catastrophe beyond the control of the <Parties>.
 
-    \\ ""Emergency Response"" means response of a governmental authority to an <Emergency>.
+    \\ ""Emergency Response"" means response of a <Government Authority> to an <Emergency>.
+
+    \\ ""Government Authority"" means a <Government>, an instrumentality of a <Government>, or a <Legal Person> authorized by law to perform any executive, legislative, judicial, regulatory, administrative, military, or police function of a <Government>.
+
+    \\ ""Government"" means the government of a country or political subdivision of a country.
 
     \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information> of the <Parties>.
 
-    \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding> on appeal.
-
     \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in favor of that <Party> against the other <Party> on all claims asserted between the <Parties> that are not settled or voluntarily dismissed.
 
-    \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria:
-    
-        \\ The <Representative> needs to receive the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
-        
-        \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
-        
-        \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure>, either by contract or the existence of a fiduciary relationship.
+    \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding> on appeal.
 
-    \\ ""Utilize"" means, of <Confidential Information>, to use or act on the basis of that <Confidential Information>, or to instruct or aid any <Third Party> to use or act on the basis of that <Confidential Information>.
+    \\ ""Utilize"" means, of <Confidential Information>, to use or act on the basis of that <Confidential Information>, or to instruct, enable, or assist any <Third Party> to use or act on the basis of that <Confidential Information>.
         
 Remedies \\
 
     Equitable Remedies \\
 
-        \\ The breach of either <Party> of this <Agreement> would cause irreparable harm to the other <Party> not adequately compensable by damages.
+        \\ Breach of this <Agreement> by either <Party> would cause irreparable harm to the other <Party> not adequately compensable with money.
 
         \\ Neither <Party> shall object to a request of the other <Party> for an equitable remedy, such as an injunction or restraining order, for breach of threatened breach of this <Agreement>.
 
@@ -160,7 +167,7 @@ Remedies \\
 
     Losing Party Pays Expenses \\ Each <Party> shall pay all expenses, such as legal fees and expenses, incurred by the other <Party> as <Prevailing Party> in any <Proceeding>.
 
-Interpretation of this Agreement \\
+Intent of this Agreement \\
 
     No Obligation to Disclose \\ This <Agreement> does not obligate either <Party> to disclose any information to the other <Party>.
 
@@ -171,8 +178,6 @@ Interpretation of this Agreement \\
     No Obligation to Do Business \\ This <Agreement> does not obligate either <Party> to do the <Mutual Opportunity> or any other business with the other <Party> or any other <Legal Person>.
 
     No Guarantee of Accuracy \\ Neither <Party> guarantees that any <Confidential Disclosure> that it discloses to the other <Party> will be accurate.
-
-    Misrepresentation Waiver \\ Neither <Party> shall assert any claim of fraud, misrepresentation, or detrimental reliance based on any assertion that <Confidential Disclosure> of other <Party> was misleading or inaccurate.
 
     Extraordinary Circumstances \\ No <Party> breaches this <Agreement> by default or delay that is caused by an <Emergency> or <Emergency Response> that, in either case, could not be circumvented by commercially reasonable means.
 
