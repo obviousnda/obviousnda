@@ -76,13 +76,11 @@ Obligations \\
 
             \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
 
-        # TODO
+        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any disclosure, use, export, or reexport of <Confidential Information> not authorized by this <Agreement> (a ""Leak"").
 
-        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any 
+        Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigation of the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
 
-    # TODO
-
-    Prohibition on Purchase of Securities \\
+    No Insider Trading \\ Neither <Party> shall violate Securities and Exchange Commission Rule 10b5-1 or any other law against insider trading of securities utilizing <Confidential Information> of the other <Party>.
 
 Definitions \\
 
@@ -97,20 +95,16 @@ Definitions \\
     \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Information> from which that <Derived Information> was derived.
 
     \\ ""Confidentiality Term"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information> and ending after a <Confidentiality Period>.
-
+    
     \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Information>.
 
-    # TODO: make concrete
-
-    \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Otherwise Received Information>, or <Independently Developed Information> that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term> that relates to <Discloser>, the business of <Discloser>, an <Affiliate> of <Discloser>, or the business of an <Affiliate> of <Discloser>.
+    \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information> that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term> that relates to <Discloser>, the business of <Discloser>, an <Affiliate> of <Discloser>, or the business of an <Affiliate> of <Discloser>.
 
     \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
 
-    # TODO: Disclosed after disclosure consistent with confidentiality
+    \\ ""Previously Received Information"" means information that a <Recipient> or any <Representative> of a <Recipient> previously received.
 
-    \\ ""Otherwise Received Information"" means information that a <Recipient> or any <Representative> of a <Recipient> previously received.
-
-    \\ ""Independently Developed Information"" means information that a <Recipient> develops independently.
+    \\ ""Independently Developed Information"" means information that a <Recipient> has developed independently.
 
     \\ ""Derived Information"" means information that a <Recipient> or <Authorized Recipient> wholly or partly derived from <Confidential Disclosure> received or other <Derived Information> and recorded in tangible or intangible form.
 
@@ -142,6 +136,10 @@ Definitions \\
 
     \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information> of the <Parties>.
 
+    \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding> on appeal.
+
+    \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in favor of that <Party> against the other <Party> on all claims asserted between the <Parties> that are not settled or voluntarily dismissed.
+
 Remedies \\
 
     Equitable Remedies \\
@@ -154,17 +152,7 @@ Remedies \\
 
     Bond and Security Waiver \\ Neither <Party> shall assert that the other <Party> must provide security, such as a bond, or proof of actual damages prior to exercising any remedy granted consistent with {Equitable Remedies}.
 
-    # TODO
-
-    Losing Party Pays Expenses \\
-
-    # TODO
-
-    Indemnification \\
-
-    # TODO
-
-    Third-Party Misappropriation \\
+    Losing Party Pays Expenses \\ Each <Party> shall pay all expenses, such as legal fees and expenses, incurred by the other <Party> as <Prevailing Party> in any <Proceeding>.
 
 Interpretation of this Agreement \\
 
