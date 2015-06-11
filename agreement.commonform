@@ -92,13 +92,13 @@ Definitions \\
 
     \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
 
-    \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the earliest to occur of the following.
+    \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the first of the following events.
 
-        \\ the day that is a <Maximum Disclosure Period> after the <Agreement Date>
+        \\ The <Disclosure Terms> ends on the day that is a <Maximum Disclosure Period> after the <Agreement Date>.
 
-        \\ the date <Notice> states the <Disclosure Term> will end
+        \\ The <Disclosure Terms> ends on the future date that <Notice> states the <Disclosure Term> will end.
 
-        \\ delivery of <Notice> that the <Disclosure Term> ends immediately
+        \\ The <Disclosure Term> ends on delivery of <Notice> that the <Disclosure Term> ends immediately.
 
     \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Confidential Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Confidential Information> from which that <Derived Confidential Information> was derived.
 
