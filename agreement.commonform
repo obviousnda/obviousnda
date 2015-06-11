@@ -76,7 +76,7 @@ Obligations \\
 
             Otherwise Destroy Copies \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
 
-        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of all known <Leaks> of the <Confidential Information> of the other <Party>.
+        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any known <Leak> of the <Confidential Information> of the other <Party>.
 
         Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigation of the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
 
@@ -94,9 +94,9 @@ Definitions \\
 
     \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the first of the following events.
 
-        \\ The <Disclosure Terms> ends on the day that is a <Maximum Disclosure Period> after the <Agreement Date>.
+        \\ The <Disclosure Term> ends on the day that is a <Maximum Disclosure Period> after the <Agreement Date>.
 
-        \\ The <Disclosure Terms> ends on the future date that <Notice> states the <Disclosure Term> will end.
+        \\ The <Disclosure Term> ends on the future date that <Notice> states the <Disclosure Term> will end.
 
         \\ The <Disclosure Term> ends on delivery of <Notice> that the <Disclosure Term> ends immediately.
 
@@ -224,7 +224,7 @@ General Contract Provisions \\
 
         Forum Waiver \\ Neither <Party> shall assert that the venue of a <Proceeding> brought per {Where to Litigate} is improper.
 
-        Venue Waiver \\ Neither <Party> shall assert that any <Proceeding> brought per {Designated Courts} has been brought in an inconvenient forum.
+        Venue Waiver \\ Neither <Party> shall assert that any <Proceeding> brought per {Where to Litigate} has been brought in an inconvenient forum.
 
         Jury Trial Waiver !! Neither <Party> shall assert its right to a trial by jury in any <Proceeding>.
 
