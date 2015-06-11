@@ -2,7 +2,7 @@ Agreement \\
 
     \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"").
     
-    \\ The <Agreement> is on the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
+    \\ This <Agreement> is on the terms of the [agreement title] version [agreement version] as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
     
     \\ The <Published Terms> are reproduced in this document for the convenience of the <Parties>.
     
@@ -22,43 +22,41 @@ Agreement-Specific Terms \\
 
     \\ ""Governing Law State"" means [governing law state].
 
-    \\ ""Circuit for Litigation"" means the [federal circuit for disputes] Circuit of the United States Courts of Appeals.
+    \\ ""Circuit for Litigation"" means the [federal circuit for litigation] Circuit of the United States Courts of Appeals.
 
     \\ ""City for Litigation"" means [city for disputes].
 
 Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchanging information.
 
-This Agreement Generally \\
+The Terms of this Agreement Generally \\
 
-    The Obligations of this Agreement are Mutual \\ Each provision of this <Agreement> creates the same rights, remedies, and obligations on each <Party>.
+    The Terms of this Agreement are Mutual \\ Each provision of this <Agreement> creates the same rights, remedies, and obligations for each <Party>.
 
-    Headings Summarize Provisions \\ Each heading of this <Agreement> accurately summarizes the entire content of the provision that follows. 
+    Headings Summarize Provisions \\ Each heading of this <Agreement> summarizes the entire content of the provision that follows. 
 
 Obligations \\
 
     Disclosure, Use, and Other Actions \\
 
-        Prohibition on Disclosure to Third Parties \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
+        No Disclosure to Third Parties \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except to an <Authorized Recipient> or by <Legally Required Disclosure>.
 
-        Prohibition on Unrelated Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
+        No Unrelated Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
 
-        Prohibition on Illegal Export \\ Neither <Party> shall illegally export or reexport information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term>.
+        No Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or by <Legally Required Disclosure>.
 
-        Prohibition on Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or as <Legally Required Disclosure>.
+        No Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or order of a <Government Authority>.
 
-        Prohibition on Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or order of a <Government Authority>.
-
-        Prohibition on Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the other <Party> in violation of any legal duty, law, regulation, or order of a <Government Authority>.
+        No Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the other <Party> in violation of any legal duty, law, regulation, or order of a <Government Authority>.
 
     Protection \\
 
         Reasonable Precautions \\ Each <Party> shall take precautions to prevent unauthorized use and disclosure of <Confidential Information> of the other <Party> at least as effective as those a reasonable person in the same position would take.
         
-        Greater Precautions \\ A <Party> that takes more effective precautions for its own confidential information must take like precautions for the <Confidential Information> of the other <Party>.
+        Greater Precautions \\ A <Party> that takes better than reasonable precautions for its own confidential information must take like precautions for the <Confidential Information> of the other <Party>.
 
         No Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating ownership or confidential nature.
 
-        No Reverse Engineering \\ Neither <Party> shall reverse engineer or otherwise attempt to discern the design, source code, or method of operation of any electronic hardware or software included in any <Confidential Disclosure> made by the other <Party>.
+        No Reverse Engineering \\ Neither <Party> shall reverse engineer or otherwise attempt to discern the design, source code, or method of operation of any electronic hardware or software included in any <Confidential Disclosure> of the other <Party>.
 
     Legally Required Disclosure \\
 
@@ -70,34 +68,34 @@ Obligations \\
 
     Return and Destruction of Copies \\
 
-        Return Copies \\ Following the end of the <Disclosure Term>, each <Party> shall return to the other <Party> all copies, other than <Counsel Copies> and <Backup Copies>, of <Confidential Disclosure> its <Discloser> has requested, by <Notice>, within the <Return or Destruction Period> immediately following the <Disclosure Term>.
+        Return Copies \\ Each <Party> shall return to the other <Party> all copies, other than <Counsel Copies> and <Backup Copies>, of <Confidential Disclosure> its <Discloser> has identified by <Notice> within the <Return or Destruction Period> immediately following the <Disclosure Term>.
 
         Destroy Copies \\
 
-            \\ If the document retention policy of a <Recipient> requires destruction of <Confidential Information> of the other <Party> within the <Maximum Retention Period> following the <Disclosure Term>, the <Recipient> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, per that document retention policy.
+            Destroy Copies per Retention Policy \\ If the document retention policy of a <Recipient> requires destruction of <Confidential Information> of the other <Party> within the <Maximum Retention Period> following the <Disclosure Term>, the <Recipient> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, per that document retention policy.
 
-            \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
+            Otherwise Destroy Copies \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
 
-        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any disclosure, use, export, or reexport of <Confidential Information> not authorized by this <Agreement> (a ""Leak"").
+        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of all known <Leaks> of the <Confidential Information> of the other <Party>.
 
         Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigation of the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
 
-    Misrepresentation Waiver \\ Neither <Party> shall assert any claim of fraud, misrepresentation, or detrimental reliance based on any assertion that <Confidential Disclosure> of other <Party> was misleading or inaccurate.
+    Misrepresentation Waiver \\ Neither <Party> shall assert any claim of fraud, misrepresentation, or detrimental reliance against the other <Party> based on any assertion that <Confidential Disclosure> of other <Party> was misleading or inaccurate.
 
 
 Definitions \\
 
     \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria:
     
-        \\ The <Representative> needs to receive the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
+        \\ The <Representative> needs the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
         
         \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
         
-        \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure>, either by contract or the existence of a fiduciary relationship.
+        \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure> throughout its <Confidentiality Term>, either by contract or the existence of a fiduciary relationship.
 
     \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
 
-    \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the earlier of
+    \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the earliest to occur of the following.
 
         \\ the day that is a <Maximum Disclosure Period> after the <Agreement Date>
 
@@ -105,21 +103,21 @@ Definitions \\
 
         \\ delivery of <Notice> that the <Disclosure Term> ends immediately
 
-    \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Information> from which that <Derived Information> was derived.
+    \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Confidential Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Confidential Information> from which that <Derived Confidential Information> was derived.
 
     \\ ""Confidentiality Term"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information> and ending after a <Confidentiality Period>.
     
-    \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Information>.
+    \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Confidential Information>.
 
-    \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information> that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term> that relates to <Discloser>, the business of <Discloser>, an <Affiliate> of <Discloser>, or the business of an <Affiliate> of <Discloser>.
+    \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information>, that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term>.
 
     \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
 
-    \\ ""Previously Received Information"" means information previously received by a <Recipient> or any <Representative> of that <Recipient>.
+    \\ ""Previously Received Information"" means information previously received by <Recipient> or any <Representative> of <Recipient>.
 
-    \\ ""Independently Developed Information"" means information that a <Recipient> developed independently.
+    \\ ""Independently Developed Information"" means information that <Recipient> developed independently.
 
-    \\ ""Derived Information"" means recorded information that a <Recipient> wholly or partly derived from <Confidential Disclosure> of the other <Party>, other <Derived Information>, or both.
+    \\ ""Derived Confidential Information"" means recorded information that a <Recipient> wholly or partly derived from <Confidential Disclosure> of <Discloser>, other <Derived Confidential Information> of <Discloser>, or both.
 
     \\ ""Affiliate"" means, of a <Legal Person>, any other <Legal Person> that <Legal Person> has <Control> over, is under the <Control> of, or is under common <Control> with.
 
@@ -131,11 +129,11 @@ Definitions \\
 
     \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
 
-    \\ ""Notice"" means a written communication to a <Party> sent by electronic mail to its <Designated Address>.
+    \\ ""Notice"" means written communication to a <Party> by electronic mail to its <Designated Address>.
 
-    \\ ""Designated Address"" means, of a <Party>, the address provided by that <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should be used for sending <Notice> to that <Party>.
+    \\ ""Designated Address"" means the address provided by a <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should be used for future <Notice>.
 
-    \\ ""Counsel Copies"" means copies of <Confidential Information> retained by legal counsel to its <Recipient> for verification of compliance.
+    \\ ""Counsel Copies"" means copies of <Confidential Information> retained by legal counsel of its <Recipient> for verification of compliance.
 
     \\ ""Backup Copies"" means copies of <Confidential Information> stored in backup media accessible only to information technology personnel of its <Recipient>.
 
@@ -147,21 +145,23 @@ Definitions \\
 
     \\ ""Government"" means the government of a country or political subdivision of a country.
 
-    \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information> of the <Parties>.
+    \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information>.
 
-    \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in favor of that <Party> against the other <Party> on all claims asserted between the <Parties> that are not settled or voluntarily dismissed.
+    \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in its favor against the other <Party> on all claims asserted between them that are not settled or voluntarily dismissed.
 
-    \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding> on appeal.
+    \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding>.
 
-    \\ ""Utilize"" means, of <Confidential Information>, to use or act on the basis of that <Confidential Information>, or to instruct, enable, or assist any <Third Party> to use or act on the basis of that <Confidential Information>.
+    \\ ""Utilize"" means to use or act on the basis of <Confidential Information>, or to instruct, enable, or assist any <Third Party> to use or act on the basis of that <Confidential Information>.
+
+    \\ ""Leak"" means disclosure or use of <Confidential Information> by a <Party> or <Third  Party> that is not authorized by this <Agreement>.
         
 Remedies \\
 
     Equitable Remedies \\
 
-        \\ Breach of this <Agreement> by either <Party> would cause irreparable harm to the other <Party> not adequately compensable with money.
+        \\ Breach of this <Agreement> by either <Party> would cause irreparable harm to the other <Party> not adequately compensable with money damages.
 
-        \\ Neither <Party> shall object to a request of the other <Party> for an equitable remedy, such as an injunction or restraining order, for breach of threatened breach of this <Agreement>.
+        \\ Neither <Party> shall object to any request of the other <Party> for an equitable remedy, such as an injunction, restraining order, or both, for breach of threatened breach of this <Agreement>.
 
     Bond and Security Waiver \\ Neither <Party> shall assert that the other <Party> must provide security, such as a bond, or proof of actual damages prior to exercising any remedy granted consistent with {Equitable Remedies}.
 
@@ -171,13 +171,13 @@ Intent of this Agreement \\
 
     No Obligation to Disclose \\ This <Agreement> does not obligate either <Party> to disclose any information to the other <Party>.
 
-    No Obligation to Receive \\ This <Agreement> does not obligate either <Party> to accept any information offered by the other <Party>.
+    No Obligation to Accept Information \\ This <Agreement> does not obligate either <Party> to accept any information offered by the other <Party>.
 
-    No Intellectual Property Licenses \\ This <Agreement> does not grant either <Party> any license in the intellectual property of the other <Party>.
+    No Intellectual Property License \\ This <Agreement> does not grant either <Party> any license in the intellectual property of the other <Party>.
 
-    No Obligation to Do Business \\ This <Agreement> does not obligate either <Party> to do the <Mutual Opportunity> or any other business with the other <Party> or any other <Legal Person>.
+    No Obligation to Do Business \\ This <Agreement> does not obligate either <Party> to do the <Mutual Opportunity> or any other business with any <Legal Person>.
 
-    No Guarantee of Accuracy \\ Neither <Party> guarantees that any <Confidential Disclosure> that it discloses to the other <Party> will be accurate.
+    No Guarantee of Accuracy \\ Neither <Party> guarantees that any <Confidential Disclosure> will be accurate or complete.
 
     Extraordinary Circumstances \\ No <Party> breaches this <Agreement> by default or delay that is caused by an <Emergency> or <Emergency Response> that, in either case, could not be circumvented by commercially reasonable means.
 
@@ -185,15 +185,15 @@ General Contract Provisions \\
 
     Legal Relationship \\
 
-        Independent Contractors \\ This <Agreement> create only an independent contractor relationship, and not any other kind of relationship, such as employment, agency, partnership, or legal representation.
+        Independent Contractors \\ This <Agreement> creates only an independent contractor relationship, and not any other kind of relationship such as employment, agency, partnership, or legal representation.
         
-        No Agency \\ This <Agreement> does not grant either <Party> any right, power, or authority to create obligations or responsibilities for the other <Party>.
+        No Agency \\ This <Agreement> does not grant either <Party> any ability to create legal obligations for the other <Party>.
 
     Assignment \\
 
         Assignment with Consent \\ Except per {Assignment without Consent}, neither <Party> shall assign any of its rights under this <Agreement> without the prior written consent of the other <Party>, whether voluntarily or involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise.
 
-        Assignment without Consent \\ A <Party> may assign this <Agreement> without the prior written consent of the other <Party> to any <Third Party> that obtains <Control> of the assigning <Party> after the <Agreement Date> if that assignee assumes all the rights and obligations of the assigning <Party> under this <Agreement>.
+        Assignment without Consent \\ A <Party> may assign this <Agreement> to any <Third Party> that obtains <Control> of the assigning <Party> after the <Agreement Date>, if that assignee assumes all the rights and obligations of the assigning <Party> under this <Agreement>, without the prior written consent of the other <Party>.
 
         Prohibited Assignment is Void \\ Any purported assignment of rights in violation of this <Agreement> is void.
 
@@ -205,7 +205,7 @@ General Contract Provisions \\
 
     Disputes \\
 
-        Third-Party Beneficiaries \\ This <Agreement> does not afford any rights or remedies to any <Legal Person> other than the <Parties>.
+        No Third-Party Beneficiaries \\ This <Agreement> does not confer any legal rights or remedies on any <Third Party>.
 
         Governing Law \\ The law of <Governing Law State>, except its conflict of law principles, will govern any <Proceeding>.
 
@@ -215,22 +215,22 @@ General Contract Provisions \\
         
             Void for Failure of Essential Purpose \\ This entire <Agreement> is contingent on the enforceability of provisions necessary to achieve each of its essential purposes.
         
-        Designated Courts \\ Each <Party> shall bring any <Proceeding> only within the appellate jurisdiction of the <Circuit for Litigation>, or, if there is no federal subject matter jurisdiction, in any state court sitting in the <City for Litigation>.
+        Where to Litigate \\ Each <Party> shall bring any <Proceeding> within the appellate jurisdiction of the <Circuit for Litigation>, or, if there is no federal subject matter jurisdiction, in any state court sitting in the <City for Litigation>.
         
-        Submission to Jurisdiction \\ Neither <Party> shall object to the exclusive jurisdiction of the federal courts of the <Circuit for Litigation> and the state courts of the <City for Litigation> for purposes of any <Proceeding>.
+        Submission to Jurisdiction \\ Neither <Party> shall object to the exclusive jurisdiction of any court in which a <Proceeding> is brought per {Where to Litigate}.
 
-        Forum Waiver \\ Neither <Party> shall assert that the venue of a <Proceeding> brought per {Designated Courts} is improper.
+        Forum Waiver \\ Neither <Party> shall assert that the venue of a <Proceeding> brought per {Where to Litigate} is improper.
 
         Venue Waiver \\ Neither <Party> shall assert that any <Proceeding> brought per {Designated Courts} has been brought in an inconvenient forum.
 
         Jury Trial Waiver !! Neither <Party> shall assert its right to a trial by jury in any <Proceeding>.
 
-    No Implied Waivers \\ Neither <Party> shall assert that the exercise of any right under this <Agreement> or the waiver of any breach of this <Agreement> prevents any later claims for breach of this <Agreement>.
+    No Implied Waivers \\ Neither <Party> shall assert that the exercise of any right under this <Agreement>, or the waiver of any breach of this <Agreement>,prevents any later claim for breach.
 
     Documentation \\
 
         Entire Agreement \\ This <Agreement> embodies the entire understanding of the <Parties> on the subject matter of this <Agreement>, and supersedes all other agreements on that subject matter, written or not, between the <Parties>.
 
-        Amendments \\ Neither <Party> shall assert that any purported amendment to this <Agreement> is effective unless it is both written and signed by the <Parties>.
+        Amendments \\ Neither <Party> shall assert that any purported amendment to this <Agreement> is effective unless it is both written and signed by both <Parties>.
 
         Electronic Execution is Effective \\ Transmission of electronically signed copies of this <Agreement> will be as effective as delivery of manually executed counterparts.
