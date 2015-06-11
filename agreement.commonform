@@ -3,7 +3,7 @@ Agreement \\
     Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchanging information.
 
     Parties and Date \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"").
-    
+
     Agreement on Published Terms \\ This <Agreement> is on the terms of the [agreement title], version [agreement version], with Common Form cryptographic fingerprint [agreement fingerprint], as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
 
     The Published Terms Control \\ The <Published Terms> are reproduced in this document for the convenience of the <Parties>. If the terms reproduced here differ from the <Published Terms>, the <Published Terms> control.
@@ -34,23 +34,23 @@ The Terms of this Agreement Generally \\
 
 Obligations \\
 
-    Disclosure, Use, and Other Actions \\
+    Prohibited Disclosure and Use \\
 
         No Disclosure to Third Parties \\ Neither <Party> shall disclose information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> to any <Third Party>, except to an <Authorized Recipient> or by <Legally Required Disclosure>.
 
         No Unrelated Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
 
-        No Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or by <Legally Required Disclosure>.
-
         No Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or order of a <Government Authority>.
 
         No Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the other <Party> in violation of any legal duty, law, regulation, or order of a <Government Authority>.
 
+        No Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or by <Legally Required Disclosure>.
+
     Protection \\
 
         Reasonable Precautions \\ Each <Party> shall take precautions to prevent unauthorized use and disclosure of <Confidential Information> of the other <Party> at least as effective as those a reasonable person in the same position would take.
-        
-        Greater Precautions \\ A <Party> that takes better than reasonable precautions for its own confidential information must take like precautions for the <Confidential Information> of the other <Party>.
+
+        Better Precautions \\ A <Party> that takes better than reasonable precautions for its own confidential information must take like precautions for the <Confidential Information> of the other <Party>.
 
         No Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating ownership or confidential nature.
 
@@ -60,21 +60,23 @@ Obligations \\
 
         Notice of Anticipated Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> upon determining that a specific <Legally Required Disclosure> may be required. <Notice> will identify the law under which disclosure may be required, the <Confidential Information> that may be disclosed, and the <Legal Person> to which the information may be disclosed.
 
-        Notice of Legally Required Disclosure Made \\ Each <Party> shall provide prompt <Notice> of any <Legally Required Disclosure> made by that <Party>.
+        Notice of Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> of any <Legally Required Disclosure> made by that <Party>.
 
-        Cooperation Against Legally Required Disclosure \\ Each <Party> shall cooperate with the other <Party> any proceeding brought to prevent or limit <Legally Required Disclosure> of <Confidential Information> of the other <Party>.
+        Cooperation to Prevent Legally Required Disclosure \\ Each <Party> shall cooperate with the other <Party> any proceeding brought to prevent or limit <Legally Required Disclosure> of <Confidential Information> of the other <Party>.
 
-        Reimbursement of Expenses of Cooperation \\ Each <Party> shall reimburse the other <Party> reasonable expenses of compliance with {Cooperation Against Legally Required Disclosure}.
+        Reimbursement of Expenses of Cooperation \\ Each <Party> shall reimburse the other <Party> reasonable expenses of compliance with {Cooperation to Prevent Legally Required Disclosure}.
 
     Return and Destruction of Copies \\
 
-        Return Copies \\ Each <Party> shall return to the other <Party> all copies, other than <Counsel Copies> and <Backup Copies>, of <Confidential Disclosure> its <Discloser> has identified by <Notice> within the <Return or Destruction Period> immediately following the <Disclosure Term>.
+        Return of Copies \\ Each <Party> shall return to the other <Party> all copies, other than <Counsel Copies> and <Backup Copies>, of <Confidential Disclosure> its <Discloser> has identified by <Notice> within the <Return or Destruction Period> immediately following the <Disclosure Term>.
 
-        Destroy Copies \\
+        Destruction of Copies \\
 
             Destroy Copies per Retention Policy \\ If the document retention policy of a <Recipient> requires destruction of <Confidential Information> of the other <Party> within the <Maximum Retention Period> following the <Disclosure Term>, the <Recipient> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, per that document retention policy.
 
             Otherwise Destroy Copies \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
+
+    Leaks \\
 
         Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any known <Leak> of the <Confidential Information> of the other <Party>.
 
@@ -83,11 +85,11 @@ Obligations \\
 Definitions \\
 
     \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria:
-    
+
         \\ The <Representative> needs the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
-        
+
         \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
-        
+
         \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure> throughout its <Confidentiality Term>, either by contract or the existence of a fiduciary relationship.
 
     \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
@@ -103,7 +105,7 @@ Definitions \\
     \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Confidential Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Confidential Information> from which that <Derived Confidential Information> was derived.
 
     \\ ""Confidentiality Term"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information> and ending after a <Confidentiality Period>.
-    
+
     \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Confidential Information>.
 
     \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information>, that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term>.
@@ -150,8 +152,8 @@ Definitions \\
 
     \\ ""Utilize"" means to use or act on the basis of <Confidential Information>, or to instruct, enable, or assist any <Third Party> to use or act on the basis of that <Confidential Information>.
 
-    \\ ""Leak"" means disclosure or use of <Confidential Information> by a <Party> or <Third  Party> that is not authorized by this <Agreement>.
-        
+    \\ ""Leak"" means disclosure or use of <Confidential Information> by a <Party> or <Third Party> that is not authorized by this <Agreement>.
+
 Remedies \\
 
     Equitable Remedies \\
@@ -183,7 +185,7 @@ General Contract Provisions \\
     Legal Relationship \\
 
         Independent Contractors \\ This <Agreement> creates only an independent contractor relationship, and not any other kind of relationship such as employment, agency, partnership, or legal representation.
-        
+
         No Agency \\ This <Agreement> does not grant either <Party> any ability to create legal obligations for the other <Party>.
 
     Assignment \\
@@ -209,17 +211,17 @@ General Contract Provisions \\
         Unenforceable Provisions \\
 
             Reform of Unenforceable Provisions \\
-            
+
                 \\ The <Parties> intend every provision of this <Agreement> to be legally enforceable.
 
                 \\ If a provision is found unenforceable and could be modified to make it enforceable, the <Parties> intend to be bound by that provision as modified to the minimum extent necessary to make it enforceable.
 
                 \\ If a provision is found unenforceable and cannot be modified to make it enforceable, the <Parties> intend that provision be excised from this <Agreement>.
-        
+
             Void for Failure of Essential Purpose \\ This entire <Agreement> is contingent on the enforceability of provisions necessary to achieve each of its essential purposes, whether as written or as modified per {Reform of Unenforceable Provisions}.
-        
+
         Where to Litigate \\ Each <Party> shall bring any <Proceeding> within the appellate jurisdiction of the <Circuit for Litigation>, or, if there is no federal subject matter jurisdiction, in any state court sitting in the <City for Litigation>.
-        
+
         Submission to Jurisdiction \\ Neither <Party> shall object to the exclusive jurisdiction of any court in which a <Proceeding> is brought per {Where to Litigate}.
 
         Forum Waiver \\ Neither <Party> shall assert that the venue of a <Proceeding> brought per {Where to Litigate} is improper.
