@@ -13,6 +13,9 @@ deploy:
     - "Obvious-Nondisclosure-Agreement.docx"
     - "Obvious-Nondisclosure-Agreement.pdf"
     - "Obvious-Nondisclosure-Agreement.txt"
+    - "README.docx"
+    - "README.md"
+    - "README.pdf"
   on:
     branch: master
     tags: true
