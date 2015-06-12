@@ -1,6 +1,7 @@
 ---
 before_deployment:
   - "make"
+  - "sudo apt-get install texlive-binaries"
 deploy:
   file:
     - "Obvious-Nondisclosure-Agreement.commonform"
@@ -16,4 +17,3 @@ deploy:
   user:
 language: "node_js"
 script: "npm run test"
-sudo: false
