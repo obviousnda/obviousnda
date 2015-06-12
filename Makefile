@@ -8,11 +8,19 @@ docx = $(addsuffix .docx,$(basename))
 txt = $(addsuffix .txt,$(basename))
 tex = $(addsuffix .tex,$(basename))
 pdf = $(addsuffix .pdf,$(basename))
+
 license = LICENSE.md
 license-docx = $(license:.md=.docx)
 license-pdf = $(license:.md=.pdf)
+licenses = $(license) $(license-docx) $(license-pdf)
+
+readme = README.md
+readme-docx = $(readme:.md=.docx)
+readme-pdf = $(readme:.md=.pdf)
+readmes = $(readme) $(readme-docx) $(readme-pdf)
+
 commonform = $(addsuffix .commonform,$(basename))
-targets = $(license-docx) $(license-pdf) $(license) $(docx) $(txt) $(commonform) $(pdf)
+targets = $(licenses) $(readmes) $(docx) $(txt) $(commonform) $(pdf)
 intermediaries = $(tex) $(blanks)
 
 signatures = $(addsuffix .signature,$(targets))
