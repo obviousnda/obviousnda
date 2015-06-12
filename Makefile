@@ -14,8 +14,8 @@ intermediaries = $(tex) $(blanks)
 
 signatures = $(addsuffix .signature,$(targets))
 cf = ./node_modules/.bin/commonform
-jsontool = ./node_modules/.bin/json
-version = $(shell $(jsontool) -f package.json version)
+json = ./node_modules/.bin/json
+version = $(shell $(json) -f package.json version)
 digest = $(shell $(cf) hash < $(agreement) | fold -w4 | paste -sd- -)
 
 all: $(targets)
