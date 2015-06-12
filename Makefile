@@ -80,4 +80,4 @@ signatures: $(signatures)
 .PHONY: clean
 
 clean:
-	rm -f $(basename).* $(blanks)
+	rm -f $(basename).* *.docx *.pdf $(blanks) $(signatures)
