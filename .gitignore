@@ -1,5 +1,5 @@
 *.temporary
-Obvious-Nondisclosure-Agreement.*
+Obvious-NDA.*
 *.docx
 *.pdf
 node_modules

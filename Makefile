@@ -1,6 +1,6 @@
 agreement = agreement.commonform
 sources = $(agreement) fixed-blanks.json
-basename = Obvious-Nondisclosure-Agreement
+basename = Obvious-NDA
 blanks = blanks.json.temporary
 title = Obvious Nondisclosure Agreement
 
