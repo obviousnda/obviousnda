@@ -3,6 +3,8 @@ before_deployment:
   - "make"
   - "sudo apt-get install texlive-binaries"
 deploy:
+  api_key:
+    secure: "UlZfSdtTfZBDiZd7PgkjO2zvAMTCKZN2m1I0qkqA9UTUtnRvdX2pwSCTN72ndj7ntPElsf9iUmk5sU0ywclBBmkj6s2ZKsCZhPUnGSmCOQEUJq6TdjaOT77Yyfv6vRl8EOncpWzazQRQ8g17uM6wfPCRdlQMUczuCzdUqgZzwj+WjsTDpUVIghBFCbBCKfoI3FuQy0TbaiLrxEmE68wSBKgz4JxqDRwHLrLWwh6YRG7O3IeLivoIruIAH3tcECcr8q3BBhPPnR0i+039AfSp+V4qqKCN8CIa6+auWcltMgrxCXX9j+2mB2RBHEdCCIRB7VdaWXwYvrkCrz6NxtlD884d36rrKGE1azEMwBEvjgcUyXtw5aeXT5SbzBa/IcDYN1Ul28YPjsnYZtJSDr5Y5utsKoLCY250JhgXqr9HqKH8WhoHEWBjMCiEHHpW6ce10RBrMNiODu1s0pQ9BxomsyViG/VhM+Z3bBodNBhCge2rEqUMOY8OxlvXr6TGQfs6yrJpQ2CpWC7zRFecROBEV4UyCSSyK2c8bkvvBu4LkwCzuszcr0PKAM/vSIY7Ul+YFWXVMV0eKaq+o+QtMfEzhgH4ZuhA+CMKeg1RmOgoNXlLRoV40ftRH8I7udIky5HJiUW1SawRw3y9v6+gIQUW2q8eT9y+Lpuq6VklYYGAwDM="
   file:
     - "Obvious-Nondisclosure-Agreement.commonform"
     - "Obvious-Nondisclosure-Agreement.docx"
@@ -11,9 +13,7 @@ deploy:
   on:
     branch: master
     tags: true
-  password:
   provider: "releases"
   skip_cleanup: true
-  user:
 language: "node_js"
 script: "npm run test"
