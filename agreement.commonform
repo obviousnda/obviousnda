@@ -148,7 +148,13 @@ Definitions \\
 
         \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Confidential Information>.
 
-        \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information>, that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term>.
+        \\ ""Confidential Disclosure"" means <Marked Information>, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information>, that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term>.
+
+        \\ ""Marked Information"" means either of the following.
+
+            \\ Information disclosed in written form that is marked "Confidential", "Proprietary", or "Privileged".
+
+            \\ Information disclosed by any means that <Discloser> confirms by subsequent <Notice> is "Confidential", "Proprietary", or "Privileged".
 
         \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
 
