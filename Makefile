@@ -8,8 +8,11 @@ docx = $(addsuffix .docx,$(basename))
 txt = $(addsuffix .txt,$(basename))
 tex = $(addsuffix .tex,$(basename))
 pdf = $(addsuffix .pdf,$(basename))
+license = LICENSE.md
+license-docx = $(license:.md=.docx)
+license-pdf = $(license:.md=.pdf)
 commonform = $(addsuffix .commonform,$(basename))
-targets = $(docx) $(txt) $(commonform) $(pdf)
+targets = $(license-docx) $(license-pdf) $(license) $(docx) $(txt) $(commonform) $(pdf)
 intermediaries = $(tex) $(blanks)
 
 signatures = $(addsuffix .signature,$(targets))
@@ -37,6 +40,12 @@ $(txt): $(sources) $(blanks)
 $(pdf): $(tex)
 	tex -interaction batchmode $(tex)
 	dvipdf *.dvi
+
+%.pdf: %.md
+	pandoc -f markdown -t latex -o $@ $<
+
+%.docx: %.md
+	pandoc -f markdown -t docx -o $@ $<
 
 $(tex): $(sources) $(blanks)
 	echo '\\overfullrule=0pt' > $@
