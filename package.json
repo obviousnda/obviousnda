@@ -6,9 +6,7 @@
     "jsontool": "7.0.2"
   },
   "scripts": {
-    "clean": "make clean",
     "precommit": "npm run test",
-    "prepublish": "make",
     "test": "commonform lint < agreement.commonform && commonform critique < agreement.commonform"
   }
 }
