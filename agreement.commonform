@@ -1,10 +1,10 @@
 Agreement \\
 
-    Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchanging information.
-
     Parties and Date \\ This agreement (this ""Agreement"") is made by its two signatories (each a ""Party"" and together the ""Parties"") as of the date of the last of their signatures (the ""Agreement Date"").
 
-    Agreement on Published Terms \\ This <Agreement> is on the terms of the [agreement title], version [agreement version], with Common Form cryptographic fingerprint [agreement fingerprint], as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
+    Background \\ The <Parties> are exploring the <Mutual Opportunity> and anticipate exchanging information.
+
+    Agreement on Published Terms \\ This <Agreement> is on the terms of the [agreement title] version [agreement version] (with Common Form cryptographic fingerprint [agreement fingerprint]) as published at [agreement website] (the ""Published Terms""), together with the agreement-specific terms of {Agreement-Specific Terms}.
 
     The Published Terms Control \\ The <Published Terms> are reproduced in this document for the convenience of the <Parties>. If the terms reproduced here differ from the <Published Terms>, the <Published Terms> control.
 
@@ -12,9 +12,9 @@ Agreement-Specific Terms \\
 
     \\ ""Mutual Opportunity"" means [description of the mutual opportunity prompting exchange of confidential information].
 
-    \\ ""Return or Destruction Period"" means [time to return and destroy information after the disclosure period, in calendar days] calendar days.
+    \\ ""Typical Return or Destruction Period"" means [time to return and destroy information after the disclosure period, in calendar days] calendar days.
 
-    \\ ""Maximum Retention Period"" means [time to destroy confidential information per a document retention policy, in months] months.
+    \\ ""Maximum Return or Destruction Period"" means [time to destroy confidential information per a document retention policy, in months] months.
 
     \\ ""Maximum Disclosure Period"" means [length of the longest possible disclosure period, in years] years.
 
@@ -26,7 +26,7 @@ Agreement-Specific Terms \\
 
     \\ ""City for Litigation"" means [city for disputes].
 
-The Terms of this Agreement Generally \\
+Terms of this Agreement Generally \\
 
     The Terms of this Agreement are Mutual \\ Each provision of this <Agreement> creates the same rights, remedies, and obligations for each <Party>.
 
@@ -40,9 +40,9 @@ Obligations \\
 
         No Unrelated Use \\ Neither <Party> shall use information that is then <Confidential Information> of the other <Party> within its <Confidentiality Term> for any purpose but the <Mutual Opportunity>.
 
-        No Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any legal duty, law, regulation, or order of a <Government Authority>.
+        No Wrongful Disclosure \\ Neither <Party> shall disclose to the other <Party> or any <Third Party> any information in violation of any duty, law, regulation, or order of a <Government Authority>.
 
-        No Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the other <Party> in violation of any legal duty, law, regulation, or order of a <Government Authority>.
+        No Wrongful Use \\ Neither <Party> shall <Utilize> any <Confidential Information> of the other <Party> in violation of any duty, law, regulation, or order of a <Government Authority>.
 
         No Disclosure About this Agreement \\ Neither <Party> shall disclose the existence or content of this <Agreement> to any <Third Party> during the <Confidentiality Term> while such information is not publicly known, except to an <Authorized Recipient> or by <Legally Required Disclosure>.
 
@@ -50,7 +50,7 @@ Obligations \\
 
         Reasonable Precautions \\ Each <Party> shall take precautions to prevent unauthorized use and disclosure of <Confidential Information> of the other <Party> at least as effective as those a reasonable person in the same position would take.
 
-        Better Precautions \\ A <Party> that takes better than reasonable precautions for its own confidential information must take like precautions for the <Confidential Information> of the other <Party>.
+        Better Precautions \\ A <Party> that takes better than reasonable precautions for its own <Confidential Information> must take like precautions for the <Confidential Information> of the other <Party>.
 
         No Removal of Proprietary Markings \\ Neither <Party> shall remove any marking from any material provided by the other <Party> indicating ownership or confidential nature.
 
@@ -58,101 +58,119 @@ Obligations \\
 
     Legally Required Disclosure \\
 
-        Notice of Anticipated Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> upon determining that a specific <Legally Required Disclosure> may be required. <Notice> will identify the law under which disclosure may be required, the <Confidential Information> that may be disclosed, and the <Legal Person> to which the information may be disclosed.
+        Notice of Anticipated Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> of any anticipated <Legally Required Disclosure> identifying the law that may require disclosure, the <Confidential Information> the law may require be disclosed, and the <Legal Person> to which law may require the information be disclosed.
 
         Notice of Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> of any <Legally Required Disclosure> made by that <Party>.
 
-        Cooperation to Prevent Legally Required Disclosure \\ Each <Party> shall cooperate with the other <Party> any proceeding brought to prevent or limit <Legally Required Disclosure> of <Confidential Information> of the other <Party>.
+        Cooperation to Prevent Legally Required Disclosure \\ Each <Party> shall cooperate with the other <Party> in any proceeding brought to prevent or limit <Legally Required Disclosure> of <Confidential Information> of the other <Party>.
 
         Reimbursement of Expenses of Cooperation \\ Each <Party> shall reimburse the other <Party> reasonable expenses of compliance with {Cooperation to Prevent Legally Required Disclosure}.
 
     Return and Destruction of Copies \\
 
-        Return of Copies \\ Each <Party> shall return to the other <Party> all copies, other than <Counsel Copies> and <Backup Copies>, of <Confidential Disclosure> its <Discloser> has identified by <Notice> within the <Return or Destruction Period> immediately following the <Disclosure Term>.
+        Return of Copies \\ Each <Party> shall return to the other <Party> all copies of <Confidential Information> of the other <Party> identified by <Notice> for return, other than <Counsel Copies> and <Backup Copies>, no later than the end of the <Typical Return or Destruction Period> after the <Disclosure Term>.
 
         Destruction of Copies \\
 
-            Destroy Copies per Retention Policy \\ If the document retention policy of a <Recipient> requires destruction of <Confidential Information> of the other <Party> within the <Maximum Retention Period> following the <Disclosure Term>, the <Recipient> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, per that document retention policy.
+            Destruction of Copies per a Document Retention Policy \\ If the document retention policy of a <Party> requires destruction of <Confidential Information> of the other <Party> within the <Maximum Return or Destruction Period> following the <Disclosure Term>, the <Party> shall destroy all copies of such <Confidential Information>, other than <Backup Copies> and <Counsel Copies>, per that document retention policy.
 
-            Otherwise Destroy Copies \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Return or Destruction Period> following the <Disclosure Term>.
+            Destruction of Copies Otherwise \\ Otherwise, each <Party> shall destroy all copies of <Confidential Information> of the other <Party>, other than <Backup Copies> and <Counsel Copies>, within the <Typical Return or Destruction Period> following the <Disclosure Term>.
 
     Leaks \\
 
-        Notice of Leaks \\ Each <Party> shall provide the other <Party> prompt <Notice> of any known <Leak> of the <Confidential Information> of the other <Party>.
+        Notice of Leaks \\ Each <Party> shall provide prompt <Notice> of any known <Leak> of the <Confidential Information> of the other <Party>.
 
-        Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigation of the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
+        Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigating the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
+
+        Reimbursement of Expenses of Leak Mitigation \\ Each <Party> shall reimburse the other <Party> reasonable expenses of compliance with {Cooperation to Mitigate Leaks} for any <Leak> not caused by breach of this <Agreement>.
+
+    Communication \\
+
+         Notice Confirmation \\ Each <Party> shall confirm receipt of any <Notice> upon receipt. 
+
+         Notice of Emergency \\ Each <Party> shall provide notice of any <Emergency> that has or may impede performance of obligations under this <Agreement> as soon as reasonably possible.
 
 Definitions \\
 
-    \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria:
+    Legal Persons \\
 
-        \\ The <Representative> needs the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
+        \\ ""Legal Person"" means an individual, corporation, partnership, trust, limited liability company, association, or other legal entity.
 
-        \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
+        \\ ""Affiliate"" means any <Legal Person> that another <Legal Person> has <Control> over, is under the <Control> of, or is under common <Control> with.
 
-        \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain obligated to protect the confidentiality of the <Confidential Disclosure> throughout its <Confidentiality Term>, either by contract or the existence of a fiduciary relationship.
+        \\ ""Control"" means direct or indirect possession of the power to direct or cause the direction of the management and policies of a <Legal Person>, such as by vote or contract.
 
-    \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
+        \\ ""Third Party"" means a <Legal Person> that is not a <Party> or a <Representative> of a <Party>.
 
-    \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the first of the following events.
+        \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
+        
+        \\ ""Authorized Recipient"" means, of a <Confidential Disclosure>, a <Representative> of the <Recipient> that meets all of the following criteria.
 
-        \\ The <Disclosure Term> ends on the day that is a <Maximum Disclosure Period> after the <Agreement Date>.
+            \\ The <Representative> needs the <Confidential Disclosure> for purposes of the <Mutual Opportunity>.
 
-        \\ The <Disclosure Term> ends on the future date that <Notice> states the <Disclosure Term> will end.
+            \\ The <Recipient> has previously given <Notice> that the <Representative> will receive the <Confidential Disclosure>.
 
-        \\ The <Disclosure Term> ends on delivery of <Notice> that the <Disclosure Term> ends immediately.
+            \\ The <Recipient> has previously given <Notice> that the <Representative> is and will remain legally obligated to protect the confidentiality of the <Confidential Disclosure> throughout its <Confidentiality Term> and stating the nature of that legal obligation.
 
-    \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Confidential Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Confidential Information> from which that <Derived Confidential Information> was derived.
+        \\ ""Government Authority"" means a <Government>, an instrumentality of a <Government>, or a <Legal Person> authorized by law to perform any executive, legislative, judicial, regulatory, administrative, military, or police function of a <Government>.
 
-    \\ ""Confidentiality Term"" means, of <Confidential Information>, the period beginning on the <Disclosure Date> of that <Confidential Information> and ending after a <Confidentiality Period>.
+        \\ ""Government"" means the government of a country or political subdivision of a country.
 
-    \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Confidential Information>.
+    Dates and Time Periods \\
 
-    \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information>, that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term>.
+        \\ ""Disclosure Term"" means the period beginning on the <Agreement Date> and ending on the first of the following events.
 
-    \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
+            \\ The <Disclosure Term> ends on the day that is a <Maximum Disclosure Period> after the <Agreement Date>.
 
-    \\ ""Previously Received Information"" means information previously received by <Recipient> or any <Representative> of <Recipient>.
+            \\ The <Disclosure Term> ends on the future date on which <Notice> states the <Disclosure Term> will end.
 
-    \\ ""Independently Developed Information"" means information that <Recipient> developed independently.
+            \\ The <Disclosure Term> ends on delivery of <Notice> that the <Disclosure Term> ends immediately.
 
-    \\ ""Derived Confidential Information"" means recorded information that a <Recipient> wholly or partly derived from <Confidential Disclosure> of <Discloser>, other <Derived Confidential Information> of <Discloser>, or both.
+        \\ ""Disclosure Date"" means, of <Confidential Disclosure>, the date when that <Confidential Disclosure> was disclosed, and, of <Derived Confidential Information>, the latest <Disclosure Date> of any <Confidential Disclosure> or <Derived Confidential Information> from which that <Derived Confidential Information> was derived.
 
-    \\ ""Affiliate"" means, of a <Legal Person>, any other <Legal Person> that <Legal Person> has <Control> over, is under the <Control> of, or is under common <Control> with.
+        \\ ""Confidentiality Term"" means the period beginning on the <Disclosure Date> of <Confidential Information> and ending after a <Confidentiality Period>.
 
-    \\ ""Legal Person"" means an individual, corporation, partnership, trust, limited liability company, association, or other legal entity.
+    Kinds of Information \\
 
-    \\ ""Control"" means direct or indirect possession of the power to direct or cause the direction of the management and policies of a <Legal Person>, such as by vote or contract.
+        \\ ""Confidential Information"" means <Confidential Disclosure> and <Derived Confidential Information>.
 
-    \\ ""Third Party"" means a <Legal Person> that is not a <Party>.
+        \\ ""Confidential Disclosure"" means information, other than <Public Information>, <Previously Received Information>, or <Independently Developed Information>, that one <Party> (""Discloser"") discloses to the other <Party> (""Recipient"") during the <Disclosure Term>.
 
-    \\ ""Representative"" means, of a <Legal Person>, any director, officer, employee, agent, or other representative of that <Legal Person>.
+        \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
 
-    \\ ""Notice"" means written communication to a <Party> by electronic mail to its <Designated Address>.
+        \\ ""Previously Received Information"" means information previously received by a <Representative> of <Recipient> other than in breach of a duty or obligation to <Discloser> to maintain the confidentiality of that information of which a <Representative> of <Recipient> was then aware.
 
-    \\ ""Designated Address"" means the address provided by a <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should be used for future <Notice>.
+        \\ ""Independently Developed Information"" means information that <Recipient> developed independently.
 
-    \\ ""Counsel Copies"" means copies of <Confidential Information> retained by legal counsel of its <Recipient> for verification of compliance.
+        \\ ""Derived Confidential Information"" means recorded information that a <Recipient> wholly or partly derived from <Confidential Disclosure> of <Discloser>, other <Derived Confidential Information> of <Discloser>, or both.
+    
+    Disclosure and Use \\
 
-    \\ ""Backup Copies"" means copies of <Confidential Information> stored in backup media accessible only to information technology personnel of its <Recipient>.
+        \\ ""Legally Required Disclosure"" means disclosure of <Confidential Information> that is required by law, solely to the extent required by law.
 
-    \\ ""Emergency"" means fire, flood, earthquake, element of nature, act of god, declared or undeclared war, terrorist act, sabotage, riot, civil disorder, rebellion, revolution, or like catastrophe beyond the control of the <Parties>.
+        \\ ""Counsel Copies"" means copies of <Confidential Information> retained by legal counsel of a <Recipient> for verification of compliance.
 
-    \\ ""Emergency Response"" means response of a <Government Authority> to an <Emergency>.
+        \\ ""Backup Copies"" means copies of <Confidential Information> stored in backup media accessible only to information technology personnel of a <Recipient>.
 
-    \\ ""Government Authority"" means a <Government>, an instrumentality of a <Government>, or a <Legal Person> authorized by law to perform any executive, legislative, judicial, regulatory, administrative, military, or police function of a <Government>.
+        \\ ""Utilize"" means to use or act on the basis of <Confidential Information>, or to instruct, enable, or assist any <Third Party> to use or act on the basis of that <Confidential Information>.
 
-    \\ ""Government"" means the government of a country or political subdivision of a country.
+        \\ ""Leak"" means disclosure or use of <Confidential Information> by a <Party> or <Third Party> that is not authorized by this <Agreement>.
 
-    \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information>.
+    Miscellaneous Definitions \\
 
-    \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in its favor against the other <Party> on all claims asserted between them that are not settled or voluntarily dismissed.
+        \\ ""Notice"" means written communication to a <Party> by electronic mail to its <Designated Address>.
 
-    \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding>.
+        \\ ""Designated Address"" means the address provided by a <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should be used for future <Notice>.
 
-    \\ ""Utilize"" means to use or act on the basis of <Confidential Information>, or to instruct, enable, or assist any <Third Party> to use or act on the basis of that <Confidential Information>.
+        \\ ""Emergency"" means fire, flood, earthquake, element of nature, act of god, declared or undeclared war, terrorist act, sabotage, riot, civil disorder, rebellion, revolution, or like catastrophe beyond the control of the <Parties>.
 
-    \\ ""Leak"" means disclosure or use of <Confidential Information> by a <Party> or <Third Party> that is not authorized by this <Agreement>.
+        \\ ""Emergency Response"" means response of a <Government Authority> to an <Emergency>.
+
+        \\ ""Proceeding"" means an adversarial proceeding relating to this <Agreement> and the exchange, disclosure, use, and protection of <Confidential Information>.
+
+        \\ ""Prevailing Party"" means a <Party> that receives a <Definitive Ruling> in its favor against the other <Party> on all claims asserted between them that are not settled or voluntarily dismissed.
+
+        \\ ""Definitive Ruling"" means, of a <Proceeding> that is not appealed, a final judgment rendered in that <Proceeding>, or, of a <Proceeding> that is appealed, a final decision in that <Proceeding>.
 
 Remedies \\
 
@@ -160,13 +178,13 @@ Remedies \\
 
         \\ Breach of this <Agreement> by either <Party> would cause irreparable harm to the other <Party> not adequately compensable with money damages.
 
-        \\ Neither <Party> shall object to any request of the other <Party> for an equitable remedy, such as an injunction, restraining order, or both, for breach of threatened breach of this <Agreement>.
+        \\ Neither <Party> shall object to any request of the other <Party> for an equitable remedy, such as an injunction or restraining order, for breach or threatened breach of this <Agreement>.
 
     Bond and Security Waiver \\ Neither <Party> shall assert that the other <Party> must provide security, such as a bond, or proof of actual damages prior to exercising any remedy granted consistent with {Equitable Remedies}.
 
     Losing Party Pays Expenses \\ Each <Party> shall pay all expenses, such as legal fees and expenses, incurred by the other <Party> as <Prevailing Party> in any <Proceeding>.
 
-Intent of this Agreement \\
+Clarifications \\
 
     No Obligation to Disclose \\ This <Agreement> does not obligate either <Party> to disclose any information to the other <Party>.
 
@@ -178,7 +196,15 @@ Intent of this Agreement \\
 
     No Guarantee of Accuracy \\ Neither <Party> guarantees that any <Confidential Disclosure> will be accurate or complete.
 
-    Extraordinary Circumstances \\ No <Party> breaches this <Agreement> by default or delay that is caused by an <Emergency> or <Emergency Response> that, in either case, could not be circumvented by commercially reasonable means.
+    No Obligation of Strict Performance in an Emergency \\ No <Party> breaches this <Agreement> by default or delay caused by an <Emergency> or <Emergency Response> that, in either case, could not be circumvented by commercially reasonable means.
+
+    Reform of Unenforceable Provisions \\
+
+        \\ The <Parties> intend every provision of this <Agreement> to be legally enforceable.
+
+        \\ If a provision is found unenforceable but could be modified to make it enforceable, the <Parties> intend to be bound by that provision as modified to the minimum extent necessary to make it enforceable.
+
+        \\ If a provision is found unenforceable and cannot be modified to make it enforceable, the <Parties> intend that provision be excised from this <Agreement>.
 
 General Contract Provisions \\
 
@@ -190,17 +216,17 @@ General Contract Provisions \\
 
     Assignment \\
 
-        Assignment with Consent \\ Except per {Assignment without Consent}, neither <Party> shall assign any of its rights under this <Agreement> without the prior written consent of the other <Party>, whether voluntarily or involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise.
+        Assignment with Consent \\ Except per {Assignment without Consent}, neither <Party> shall assign any of its rights under this <Agreement>, voluntarily, involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise, without the prior written consent of the other <Party>,
 
-        Assignment without Consent \\ A <Party> may assign this <Agreement> to any <Third Party> that obtains <Control> of the assigning <Party> after the <Agreement Date>, if that assignee assumes all the rights and obligations of the assigning <Party> under this <Agreement>, without the prior written consent of the other <Party>.
+        Assignment without Consent \\ A <Party> may assign this <Agreement> without the prior written consent of the other <Party> to any <Third Party> that both obtains <Control> of the assigning <Party> after the <Agreement Date> and assumes all the rights and obligations of the assigning <Party> under this <Agreement>.
 
-        Prohibited Assignment is Void \\ Any purported assignment of rights in violation of this <Agreement> is void.
+        Prohibited Assignment is Void \\ Any purported assignment of rights in breach of this <Agreement> is void.
 
     Delegation \\
 
         Delegation with Consent \\ Neither <Party> shall delegate any performance under this <Agreement> without the prior written consent of the other <Party>.
 
-        Prohibited Delegation is Void \\ Any purported delegation of performance in violation of this <Agreement> is void.
+        Prohibited Delegation is Void \\ Any purported delegation of performance in breach of this <Agreement> is void.
 
     Disputes \\
 
@@ -208,25 +234,17 @@ General Contract Provisions \\
 
         Governing Law \\ The law of <Governing Law State>, except its conflict of law principles, will govern any <Proceeding>.
 
-        Reform of Unenforceable Provisions \\
-
-            \\ The <Parties> intend every provision of this <Agreement> to be legally enforceable.
-
-            \\ If a provision is found unenforceable and could be modified to make it enforceable, the <Parties> intend to be bound by that provision as modified to the minimum extent necessary to make it enforceable.
-
-            \\ If a provision is found unenforceable and cannot be modified to make it enforceable, the <Parties> intend that provision be excised from this <Agreement>.
-
         Where to Litigate \\ Each <Party> shall bring any <Proceeding> within the appellate jurisdiction of the <Circuit for Litigation>, or, if there is no federal subject matter jurisdiction, in any state court sitting in the <City for Litigation>.
 
         Submission to Jurisdiction \\ Neither <Party> shall object to the exclusive jurisdiction of any court in which a <Proceeding> is brought per {Where to Litigate}.
 
-        Forum Waiver \\ Neither <Party> shall assert that the venue of a <Proceeding> brought per {Where to Litigate} is improper.
+        Forum Waiver \\ Neither <Party> shall assert that venue is improper in any <Proceeding> brought per {Where to Litigate}.
 
-        Venue Waiver \\ Neither <Party> shall assert that any <Proceeding> brought per {Where to Litigate} has been brought in an inconvenient forum.
+        Venue Waiver \\ Neither <Party> shall assert that forum is inconvenient in any <Proceeding> brought per {Where to Litigate}.
 
         Jury Trial Waiver !! Neither <Party> shall assert its right to a trial by jury in any <Proceeding>.
 
-    No Implied Waivers \\ Neither <Party> shall assert that the exercise of any right under this <Agreement>, or the waiver of any breach of this <Agreement>,prevents any later claim for breach.
+    No Implied Waivers \\ Neither <Party> shall assert that the exercise of any right under this <Agreement>, or the waiver of any breach of this <Agreement>, prevents any later claim for breach.
 
     Documentation \\
 
