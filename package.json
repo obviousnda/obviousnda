@@ -1,7 +1,7 @@
 {
   "name": "obviousnda",
   "private": true,
-  "version": "0.0.0-prerelease",
+  "version": "1.0.0-prerelease-1",
   "devDependencies": {
     "commonform-cli": "0.4.3",
     "json": "~9.0.3",
