@@ -65,11 +65,7 @@ $(tex): $(sources) $(blanks)
 	echo '\\vskip 1.5\\parskip' >> $@
 	$(cf) render --title '$(title)' --blanks $(blanks) --format tex < $(agreement) >> $@
 	echo '' >> $@
-	echo '\\centerline{' >> $@
-	echo '{\\leavevmode  \\vbox{\\hrule width2in}}' >> $@
-	echo '{The Agreement ends here.}' >> $@
-	echo '{\\leavevmode  \\vbox{\\hrule width2in}}' >> $@
-	echo '}' >> $@
+	echo '\\noindent{\\leavevmode  \\vbox{\\hrule width\hsize}}' >> $@
 	echo '\\bye' >> $@
 
 signatures: $(signatures)
