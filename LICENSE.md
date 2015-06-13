@@ -1,4 +1,4 @@
-The Obvious Nondisclosure Agreement is copyright Kyle Mitchell.
+The Obvious Nondisclosure Agreement is copyright Kyle Mitchell and Ansel Halliburton.
 
 You may copy, distribute, or communicate the Obvious Nondisclosure Agreement either without modification or as modified only to fill one or more blanks under the heading "Agreement-Specific Terms".
 
