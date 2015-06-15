@@ -19,8 +19,13 @@ readme-docx = $(readme:.md=.docx)
 readme-pdf = $(readme:.md=.pdf)
 readmes = $(readme) $(readme-docx) $(readme-pdf)
 
+contributing = CONTRIBUTING.md
+contributing-docx = $(contributing:.md=.docx)
+contributing-pdf = $(contributing:.md=.pdf)
+contributings = $(contributing) $(contributing-docx) $(contributing-pdf)
+
 commonform = $(addsuffix .commonform,$(basename))
-targets = $(licenses) $(readmes) $(docx) $(txt) $(commonform) $(pdf)
+targets = $(contributings) $(licenses) $(readmes) $(docx) $(txt) $(commonform) $(pdf)
 intermediaries = $(tex) $(blanks)
 
 signatures = $(addsuffix .signature,$(targets))
