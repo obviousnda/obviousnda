@@ -204,6 +204,12 @@ Remedies \\
 
     Losing Party Pays Expenses \\ Each <Party> shall pay all expenses, such as legal fees and expenses, incurred by the other <Party> as <Prevailing Party> in any <Proceeding>.
 
+    Copyright Licenses \\ Each <Party> (as ""Licensor"") hereby grants the other <Party> (as ""Licensee"") a worldwide, royalty-free, nonexclusive, nonsublicensable, and nontransferable license during the <Disclosure Term> to do each of the following, in each case as necessary for purposes of the <Mutual Opportunity>.
+    
+        \\ <Licensee> may reproduce <Confidential Disclosure> of <Licensor> in copies.
+
+        \\ <Licensee> may create "derivative works" (as defined by the Copyright Act of 1976) of <Confidential Disclosure>.
+    
 Clarifications \\
 
     No Obligation to Disclose \\ This <Agreement> does not obligate either <Party> to disclose any information to the other <Party>.
@@ -236,9 +242,9 @@ General Contract Provisions \\
 
     Assignment \\
 
-        Assignment with Consent \\ Except per {Assignment without Consent}, neither <Party> shall assign any of its rights under this <Agreement>, voluntarily, involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise, without the prior written consent of the other <Party>,
+        Assignment with Consent \\ Except per {Assignment without Consent}, neither <Party> shall assign any rights or licenses under this <Agreement>, whether voluntarily, involuntarily, by merger, consolidation, dissolution, operation of law, or otherwise, without the prior written consent of the other <Party>,
 
-        Assignment without Consent \\ A <Party> may assign this <Agreement> without the prior written consent of the other <Party> to any <Third Party> that both obtains <Control> of the assigning <Party> after the <Agreement Date> and assumes all the rights and obligations of the assigning <Party> under this <Agreement>.
+        Assignment without Consent \\ A <Party> may assign this <Agreement> and the license granted to that <Party> per {Copyright Licenses} without the prior written consent of the other <Party> to any <Third Party> that both obtains <Control> of the assigning <Party> after the <Agreement Date> and assumes all the rights and obligations of the assigning <Party> under this <Agreement>.
 
         Prohibited Assignment is Void \\ Any purported assignment of rights in breach of this <Agreement> is void.
 
