@@ -31,7 +31,8 @@ intermediaries = $(tex) $(blanks)
 signatures = $(addsuffix .signature,$(targets))
 cf = ./node_modules/.bin/commonform
 json = ./node_modules/.bin/json
-version = $(shell $(json) -f package.json version)
+version = $(shell if git describe --exact-match --abbrev=0 ; then echo -n 'version ' && $(json) -f package.json version ; else echo -n 'Development Draft of ' && date --utc ; fi)
+website = $(shell if git describe --exact-match --abbrev=0 ; then echo -n 'http://obviousnda.org' ; else echo -n '[Not Published]' ; fi)
 digest = $(shell $(cf) hash < $(agreement) | fold -w4 | paste -sd- -)
 
 all: $(targets)
@@ -39,6 +40,7 @@ all: $(targets)
 $(blanks): fixed-blanks.json package.json agreement.commonform
 	cp fixed-blanks.json $@
 	sed --in-place "s/VERSION/$(version)/" $@
+	sed --in-place "s/WEBSITE/$(website)/" $@
 	sed --in-place "s/FINGERPRINT/$(digest)/" $@
 
 $(commonform): $(agreement)
@@ -66,7 +68,7 @@ $(tex): $(sources) $(blanks)
 	echo '\\font\\tenbi=cmbxti10' >> $@
 	echo '\\newfam\\bifam \\def\\bi{\\fam\\bifam\\tenbi} \\textfont\\bifam=\\tenbi' >> $@
 	echo '\\centerline{\\bf Obvious Nondisclosure Agreement}\n' >> $@
-	echo '\\centerline{version $(version)}\n' >> $@
+	echo '\\centerline{$(version)}\n' >> $@
 	echo '\\vskip 1.5\\parskip' >> $@
 	$(cf) render --title '$(title)' --blanks $(blanks) --format tex < $(agreement) >> $@
 	echo '' >> $@
