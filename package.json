@@ -4,8 +4,7 @@
   "version": "1.0.0-prerelease-2",
   "devDependencies": {
     "commonform-cli": "0.4.3",
-    "json": "~9.0.3",
-    "jsontool": "7.0.2"
+    "json": "~9.0.3"
   },
   "scripts": {
     "precommit": "npm run test",
