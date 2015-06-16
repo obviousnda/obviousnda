@@ -31,8 +31,8 @@ intermediaries = $(tex) $(blanks)
 signatures = $(addsuffix .signature,$(targets))
 cf = ./node_modules/.bin/commonform
 json = ./node_modules/.bin/json
-version = $(shell if git describe --exact-match --abbrev=0 ; then echo -n 'version ' && $(json) -f package.json version ; else echo -n 'Development Draft of ' && date --utc ; fi)
-website = $(shell if git describe --exact-match --abbrev=0 ; then echo -n 'http://obviousnda.org' ; else echo -n '[Not Published]' ; fi)
+version = $(shell if git describe --exact-match --abbrev=0 > /dev/null 2>&1 ; then echo -n 'version ' && $(json) -f package.json version ; else echo -n 'Development Draft of ' && date --utc ; fi)
+website = $(shell if git describe --exact-match --abbrev=0 > /dev/null 2>&1 ; then echo -n 'http:\/\/obviousnda.org' ; else echo -n '[Not Published]' ; fi)
 digest = $(shell $(cf) hash < $(agreement) | fold -w4 | paste -sd- -)
 
 all: $(targets)
