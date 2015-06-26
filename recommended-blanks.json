@@ -1,5 +1,5 @@
 {
-  "time to return and destroy information after the disclosure period, in calendar days": "14",
+  "time to destroy information after the disclosure period, in calendar days": "14",
   "time to destroy confidential information per a document retention policy, in months": "6",
   "length of the default disclosure period, in years": "3",
   "length of time confidential disclosures must be kept confidential, in years": "5",
