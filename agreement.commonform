@@ -54,6 +54,12 @@ Obligations \\
 
         No Reverse Engineering \\ Neither <Party> shall reverse engineer or otherwise attempt to discern the design, source code, or method of operation of any electronic hardware or software included in any <Confidential Disclosure> of the other <Party>.
 
+    Responsibility for Representatives \\
+
+        Indemnify for Misuse or Disclosure by Representative \\ Each <Party> (as ""Indemnitor"") shall indemnify the other <Party> (as ""Indemnitee"") against any loss or liability arising out of disclosure or use by any <Representative> of <Indemnitor> of the <Confidential Information> of <Indemnitee> that is not authorized by this <Agreement>.
+
+        Indemnification In Addition to Other Remedies \\ The right of a <Party> to indemnification per {Indemnify for Misuse or Disclosure by Representative} is in addition to, not exclusive of, any other remedies available to that <Party>.
+
     Legally Required Disclosure \\
 
         Notice of Anticipated Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> upon determination that any <Legally Required Disclosure> will be required. <Notice> shall identify the law that may require disclosure, the <Confidential Information> (or a detailed summary of <Confidential Information>) the law may require be disclosed, and the <Legal Person> to which law may require the information be disclosed.
