@@ -102,7 +102,7 @@ Definitions \\
 
         \\ ""Authorized Recipient"" means, of a <Confidential Information>, any <Legal Person> with a <Confidentiality Obligation> for that <Confidential Information> that matches one or more of the following descriptions.
 
-            \\ The <Legal Person> is a <Representative> of <Recipient>.
+            \\ The <Legal Person> is a <Representative> of <Recipient> with a <Need to Know>.
 
             \\ The <Legal Person> is a <Representative> of an <Affiliate> of <Recipient> with a <Need to Know> that has been <Cleared for Disclosure>.
 
