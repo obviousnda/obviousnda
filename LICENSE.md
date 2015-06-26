@@ -1,4 +1,4 @@
-The Obvious Nondisclosure Agreement or "Obvious NDA" is copyright Kyle Mitchell.
+The Obvious Nondisclosure Agreement or "Obvious NDA" is copyright Kyle Mitchell and fellow contributors.
 
 The Obvious NDA is for educational and informational purposes only.
 
