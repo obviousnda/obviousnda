@@ -64,9 +64,9 @@ Obligations \\
 
     Legally Required Disclosure \\
 
-        Notice of Anticipated Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> upon determination that any <Legally Required Disclosure> will be required. <Notice> shall identify the law that may require disclosure, the <Confidential Information> (or a detailed summary of <Confidential Information>) the law may require be disclosed, and the <Legal Person> to which law may require the information be disclosed.
+        Notice of Anticipated Legally Required Disclosure \\ Each <Party> shall provide prompt <Notice> on determination that any <Legally Required Disclosure> will be required. <Notice> shall identify the law that may require disclosure, the <Confidential Information> (or a detailed summary of <Confidential Information>) the law may require be disclosed, and the <Legal Person> to which law may require the information be disclosed.
 
-        Prior Notice of Legally Required Disclosure \\ Each <Party> shall provide <Notice> prior to making any <Legally Required Disclosure>.
+        Prior Notice of Legally Required Disclosure \\ Each <Party> shall provide <Notice> before making any <Legally Required Disclosure>.
 
         Cooperation to Prevent Legally Required Disclosure \\ Each <Party> shall cooperate with the other <Party> in any proceeding brought to prevent or limit <Legally Required Disclosure> of <Confidential Information> of the other <Party>.
 
@@ -80,7 +80,7 @@ Obligations \\
 
     Leaks \\
 
-        Notice of Leaks \\ Each <Party> shall provide prompt <Notice> upon learning of any <Leak> of the <Confidential Information> of the other <Party>.
+        Notice of Leaks \\ Each <Party> shall provide prompt <Notice> on learning of any <Leak> of the <Confidential Information> of the other <Party>.
 
         Cooperation to Mitigate Leaks \\ Each <Party> shall cooperate in mitigating the adverse consequences of any <Leak> of the <Confidential Information> of the other <Party>.
 
@@ -88,7 +88,7 @@ Obligations \\
 
     Communication \\
 
-         Notice Confirmation \\ Each <Party> shall confirm receipt of any <Notice> upon receipt.
+         Notice Confirmation \\ Each <Party> shall confirm receipt of any <Notice> on receipt.
 
          Notice of Emergency \\ Each <Party> shall provide notice of any <Emergency> that has or may impede performance of obligations under this <Agreement> as soon as reasonably possible.
 
@@ -124,7 +124,7 @@ Definitions \\
 
         \\ ""Proposed Recipient Notice"" means <Notice> by the <Recipient> of some <Confidential Information> naming a natural person, describing the relationship between <Recipient> and that natural person, and proposing to disclose <Confidential Information> to that natural person.
 
-        \\ ""Cleared for Disclosure"" means that <Recipient> has given <Proposed Recipient Notice> for a natural person at least one <Recipient Veto Period> in advance of disclosing any <Confidential Information> to that natural person, and that <Discloser> has not subsequently given <Notice> that <Confidential Information> shall not be disclosed to that natural person.
+        \\ ""Cleared for Disclosure"" means that <Recipient> has given <Proposed Recipient Notice> for a natural person at least one <Recipient Veto Period> in advance of disclosing any <Confidential Information> to that natural person, and that <Discloser> has not later given <Notice> that <Confidential Information> shall not be disclosed to that natural person.
 
         \\ ""Government Authority"" means a <Government>, an instrumentality of a <Government>, or a <Legal Person> authorized by law to perform any executive, legislative, judicial, regulatory, administrative, military, or police function of a <Government>.
 
@@ -154,7 +154,7 @@ Definitions \\
 
             \\ Information disclosed in written form that is marked "Confidential", "Proprietary", or "Privileged".
 
-            \\ Information disclosed by any means that <Discloser> confirms by subsequent <Notice> is "Confidential", "Proprietary", or "Privileged".
+            \\ Information disclosed by any means that <Discloser> confirms by later <Notice> is "Confidential", "Proprietary", or "Privileged".
 
         \\ ""Public Information"" means public information that did not become public due to breach of this <Agreement>.
 
@@ -180,7 +180,7 @@ Definitions \\
 
         \\ ""Notice"" means written communication to a <Party> by electronic mail to its <Designated Address>.
 
-        \\ ""Designated Address"" means the address provided by a <Party> together with its signature to this <Agreement>, or, alternatively, any subsequent address that <Party> gives <Notice> should be used for future <Notice>.
+        \\ ""Designated Address"" means the address provided by a <Party> together with its signature to this <Agreement>, or, alternatively, any other address that <Party> gives <Notice> should be used for future <Notice>.
 
         \\ ""Emergency"" means fire, flood, earthquake, element of nature, act of god, declared or undeclared war, terrorist act, sabotage, riot, civil disorder, rebellion, revolution, or like catastrophe beyond the control of the <Parties>.
 
@@ -200,11 +200,11 @@ Remedies \\
 
         \\ Neither <Party> shall object to any request of the other <Party> for an equitable remedy, such as an injunction or restraining order, for breach or threatened breach of this <Agreement>.
 
-    Bond and Security Waiver \\ Neither <Party> shall assert that the other <Party> must provide security, such as a bond, or proof of actual damages prior to exercising any remedy granted consistent with {Equitable Remedies}.
+    Bond and Security Waiver \\ Neither <Party> shall assert that the other <Party> must provide security, such as a bond, or proof of actual damages before exercising any remedy granted consistent with {Equitable Remedies}.
 
     Losing Party Pays Expenses \\ Each <Party> shall pay all expenses, such as legal fees and expenses, incurred by the other <Party> as <Prevailing Party> in any <Proceeding>.
 
-    Copyright Licenses \\ Each <Party> (as ""Licensor"") hereby grants the other <Party> (as ""Licensee"") a worldwide, royalty-free, nonexclusive, nonsublicensable, and nontransferable license during the <Disclosure Term> to do each of the following, in each case as necessary for purposes of the <Mutual Opportunity>.
+    Copyright Licenses \\ Each <Party> (as ""Licensor"") grants the other <Party> (as ""Licensee"") a worldwide, royalty-free, nonexclusive, nonsublicensable, and nontransferable license during the <Disclosure Term> to do each of the following, in each case as needed for purposes of the <Mutual Opportunity>.
 
         \\ <Licensee> may reproduce <Confidential Disclosure> of <Licensor> in copies.
 
