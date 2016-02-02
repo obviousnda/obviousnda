@@ -1,7 +1,8 @@
 basename=obvious-nda
 blanks=blanks.json.temporary
 title=Obvious Nondisclosure Agreement
-targets=$(basename:=.docx) $(basename:=.pdf) $(basename:.cform.signature)
+form=$(basename:=.cform)
+targets=$(basename:=.docx) $(basename:=.pdf) $(form:=.signature)
 
 cf=./node_modules/.bin/commonform
 version=$(shell if git describe --exact-match --abbrev=0 > /dev/null 2>&1 ; then echo -n 'version ' && $(json) -f package.json version ; else echo -n 'Development Draft of ' && date --utc ; fi)
@@ -34,13 +35,16 @@ $(blanks): fixed-blanks.json
 %.signature: %
 	gpg --detach-sign --armor --local-user 'Obvious Nondisclosure Agreement Releases' --output $@ $<
 
-.PHONY: clean lint critique
+.PHONY: clean lint critique share
 
 clean:
 	rm -f $(targets)
 
-lint: $(basename:=.cform) $(cf)
+lint: $(form) $(cf)
 	$(cf) lint < $<
 
-critique: $(basename:=.cform) $(cf)
+critique: $(form) $(cf)
 	$(cf) critique < $<
+
+share: $(form) $(cf)
+	$(cf) share < $(form)
