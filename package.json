@@ -3,8 +3,7 @@
   "private": true,
   "version": "1.0.0-prerelease-4",
   "devDependencies": {
-    "commonform-cli": "0.4.3",
-    "json": "~9.0.3"
+    "commonform-cli": "^0.14.1"
   },
   "scripts": {
     "precommit": "npm run test",
