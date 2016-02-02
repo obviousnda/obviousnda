@@ -34,7 +34,13 @@ $(blanks): fixed-blanks.json
 %.signature: %
 	gpg --detach-sign --armor --local-user 'Obvious Nondisclosure Agreement Releases' --output $@ $<
 
-.PHONY: clean
+.PHONY: clean lint critique
 
 clean:
 	rm -f $(targets)
+
+lint: $(basename:=.cform) $(cf)
+	$(cf) lint < $<
+
+critique: $(basename:=.cform) $(cf)
+	$(cf) critique < $<
